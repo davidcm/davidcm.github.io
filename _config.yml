@@ -4,9 +4,9 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 
-name: david cm
+name: david.cm
 url: http://www.david.cm
-description: Projects and stuff.
+description: My independent professional self.
 twitter: tmdchi
 github: davidcm
 gravatar_url: http://gravatar.com/avatar/3c8f4803c4e4dae10f9e4d6743fe72c2
