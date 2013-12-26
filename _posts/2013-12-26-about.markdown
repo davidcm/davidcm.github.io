@@ -1,5 +1,8 @@
-David.CM home page
-==================
+---
+layout: post
+title: About
+category: posts
+---
 
 Projects
 --------
@@ -11,3 +14,8 @@ Contact
 -------
 
 [@tmdchi] (http://www.twitter.com/tmdchi)
+
+[jekyll]: https://github.com/mojombo/jekyll
+[zh]: http://zachholman.com
+[left]: https://github.com/holman/left#readme
+[twitter]: https://twitter.com/holman
