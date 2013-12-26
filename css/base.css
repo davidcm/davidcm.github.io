@@ -106,6 +106,7 @@ a {
     padding-bottom: 5px;
     margin-bottom: 10px; }
   .content p {
+  	font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
     font-size: 16px;
     margin-top: 0;
     margin-bottom: 1.2em;
