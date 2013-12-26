@@ -1,0 +1,24 @@
+---
+layout: layout
+title: About
+---
+
+Projects
+--------
+
+- [Rien][rien] (me, [Ángel][rtypex], [Fermín][fermin], Ismael, [Álvaro][alvaro], [Lucía][lucia])
+- [Sheep in Hell][sheepinhell] (me, [Ángel][rtypex], [Atic2A][atic2a])
+
+Contact
+-------
+
+[@tmdchi][tmdchi]
+
+[tmdchi]: http://www.twitter.com/tmdchi
+[rien]: http://projectrien.wordpress.com
+[rtypex]: http://rtypex.com
+[fermin]: http://www.twitter.com/ferminho
+[alvaro]: http://www.twitter.com/alopfr
+[lucia]: http://www.twitter.com/Lu_Gallegos
+[sheepinhell]: https://twitter.com/search?q=%23sheepinhell+OR+%23sheepinthehell
+[atic2a]: http://www.atic2a.com
