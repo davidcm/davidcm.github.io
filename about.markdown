@@ -6,15 +6,9 @@ title: About
 Projects
 --------
 
-- [Rien][rien] (me, [Ángel][rtypex], [Fermín][fermin], Ismael, [Álvaro][alvaro], [Lucía][lucia])
-- [Sheep in Hell][sheepinhell] (me, [Ángel][rtypex], [Atic2A][atic2a])
+[Rien][rien] (me, [Ángel][rtypex], [Fermín][fermin], Ismael, [Álvaro][alvaro], [Lucía][lucia])
+[Sheep in Hell][sheepinhell] (me, [Ángel][rtypex], [Atic2A][atic2a])
 
-Contact
--------
-
-[@tmdchi][tmdchi]
-
-[tmdchi]: http://www.twitter.com/tmdchi
 [rien]: http://projectrien.wordpress.com
 [rtypex]: http://rtypex.com
 [fermin]: http://www.twitter.com/ferminho
