@@ -4,7 +4,7 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 
-name: David.CM
+name: david cm
 url: http://www.david.cm
 description: Projects and stuff.
 twitter: tmdchi
