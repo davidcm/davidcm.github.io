@@ -15,6 +15,8 @@ Contact
 
 [@tmdchi] (http://www.twitter.com/tmdchi)
 
+---
+
 [jekyll]: https://github.com/mojombo/jekyll
 [zh]: http://zachholman.com
 [left]: https://github.com/holman/left#readme
