@@ -7,17 +7,19 @@ category: posts
 Projects
 --------
 
-- [Rien] (http://projectrien.wordpress.com) (me, [Ángel] (http://rtypex.com), [Fermín] (http://www.twitter.com/ferminho), Ismael, [Álvaro] (http://www.twitter.com/alopfr), [Lucía] (http://www.twitter.com/Lu_Gallegos))
-- [Sheep in Hell] (https://twitter.com/search?q=%23sheepinhell+OR+%23sheepinthehell) (me, [Ángel] (http://rtypex.com), [Atic2A] (http://www.atic2a.com))
+- [Rien][rien] (me, [Ángel][rtypex], [Fermín][fermin], Ismael, [Álvaro][alvaro], [Lucía][lucia])
+- [Sheep in Hell][sheepinhell] (me, [Ángel][rtypex], [Atic2A][atic2a])
 
 Contact
 -------
 
-[@tmdchi] (http://www.twitter.com/tmdchi)
+[@tmdchi][tmdchi]
 
----
-
-[jekyll]: https://github.com/mojombo/jekyll
-[zh]: http://zachholman.com
-[left]: https://github.com/holman/left#readme
-[twitter]: https://twitter.com/holman
+[tmdchi]: http://www.twitter.com/tmdchi
+[rien]: http://projectrien.wordpress.com
+[rtypex]: http://rtypex.com
+[fermin]: http://www.twitter.com/ferminho
+[alvaro]: http://www.twitter.com/alopfr
+[lucia]: http://www.twitter.com/Lu_Gallegos
+[sheepinhell]: https://twitter.com/search?q=%23sheepinhell+OR+%23sheepinthehell
+[atic2a]: http://www.atic2a.com
