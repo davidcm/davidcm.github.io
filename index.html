@@ -4,11 +4,16 @@ title: "Home"
 ---
 
 <section class="content">
-	assigning
 	{% assign post = site.posts.first %}
 	{% assign content = post.content %}
-	content
+	<h1>
+		<a href="{{ post.url }}">{{ post.title }}</a>
+	</h1>
+	<section class="byline">
+		{{ post.date | date: "%B %e, %Y" }}
+	</section>
+
 	{{ content }}
-	including
+	
 	{% include posts.html %}
 </section>
