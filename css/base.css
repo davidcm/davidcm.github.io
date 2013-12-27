@@ -165,13 +165,14 @@ a {
       margin: 0;
       padding: 0; }
     .content .listing li {
-      font-size: 10px;
+      font-size: 13px;
       list-style: none;
       padding: 5px 3px;
       margin: 0;
       color: #777777;
       border-bottom: 1px solid #eee; }
     .content .listing li span {
+	  font-size: 10px;
       float: right; }
     .content .listing a {
       text-decoration: none; }
