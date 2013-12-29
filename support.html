@@ -13,16 +13,34 @@ xavi: "<a href='http://twitter.com/xavimator'>Xavi Segura</a>"
 
   <h1>Support</h1>
   
-  <p>
-    <form action="http://getsimpleform.com/messages?form_api_token=<form_api_token>" method="post">
-      <input type='hidden' name='redirect_to' value='thank-you.html' />
-      <input type='text' name='from' />
-      <select name='product'>
+	<p>
+	  If you have a problem with any of our products, please send me a description of the issue.
+	</p>
+  
+	<form action="http://getsimpleform.com/messages?form_api_token=<form_api_token>" method="post">
+	  <input type='hidden' name='redirect_to' value='thank-you.html' />
+	<p>
+	  <label>Your name:</label>
+	  <input type='text' name='name' />
+	</p>
+	<p>
+	  <label>Your email:</label>
+	  <input type='text' name='email' />
+	</p>
+	<p>
+	  <label>Product:</label>
+	  <select name='product'>
+	    <option value='-'>-</option>
 	    <option value='sheepinhell'>Sheep in Hell</option>
 		<option value='rien'>Rien</option>
-      </select>
-      <textarea name='content' cols=40 rows=6></textarea>
-    </form>
-  </p>
+	  </select>
+	</p>
+	<p>
+	  <label>Description:</label>
+	  <textarea name='description' cols=40 rows=6></textarea>
+	</p>
+	<p>
+	  <input type='submit' value='Send' />
+	</form>
 
 </section>
