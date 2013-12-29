@@ -207,5 +207,5 @@ a {
     font-weight: bold; }
   .content .talk-design .color .white {
     color: #fff; }
-  .content label {
-    width: 100px; }
+  .content form label {
+    width: 200px; float: left}
