@@ -17,18 +17,19 @@ xavi: "<a href='http://twitter.com/xavimator'>Xavi Segura</a>"
 	  If you have a problem with any of our products, please send me a description of the issue.
 	</p>
   
-	<form action="http://getsimpleform.com/messages?form_api_token=<form_api_token>" method="post">
-	  <input type='hidden' name='redirect_to' value='thank-you.html' />
+	<form action='http://getsimpleform.com/messages?form_api_token=e50faa7b927fdd868578ec19b747845a'
+	method='post'>
+	  <input type='hidden' name='redirect_to' value='support-thankyou.html' />
 	<p>
 	  <label>Your name:</label>
-	  <input type='text' name='name' />
+	  <input type='text' name='name' maxlength=30 />
 	</p>
 	<p>
 	  <label>Your email:</label>
-	  <input type='text' name='email' />
+	  <input type='email' name='email' maxlength=30 />
 	</p>
 	<p>
-	  <label>Product:</label>
+	  <label>Affected product:</label>
 	  <select name='product'>
 	    <option value='-'>-</option>
 	    <option value='sheepinhell'>Sheep in Hell</option>
@@ -36,8 +37,8 @@ xavi: "<a href='http://twitter.com/xavimator'>Xavi Segura</a>"
 	  </select>
 	</p>
 	<p>
-	  <label>Description:</label>
-	  <textarea name='description' cols=40 rows=6></textarea>
+	  <label>Problem description:</label>
+	  <textarea name='message' cols=40 rows=6 maxlength=1500></textarea>
 	</p>
 	<p>
 	  <input type='submit' value='Send' />
