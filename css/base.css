@@ -107,12 +107,12 @@ a {
     margin-bottom: 10px; }
   .content p {
   	font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
-    font-size: 22px;
+    font-size: 20px;
     margin-top: 0;
     margin-bottom: 1.2em;
     line-height: 1.7em; }
   .content p code {
-    font-size: 18px;
+    font-size: 16px;
     background-color: #eeeeee;
     border: 1px solid #777777;
     border-radius: 3px;
@@ -160,19 +160,19 @@ a {
   .content .listing {
     margin: 10px 0 0 0;
     padding: 0;
-    font-family: Helvetica, sans-serif; }
+    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif; }
     .content .listing ul {
       margin: 0;
       padding: 0; }
     .content .listing li {
-      font-size: 13px;
+      font-size: 15px;
       list-style: none;
       padding: 5px 3px;
       margin: 0;
       color: #777777;
       border-bottom: 1px solid #eee; }
     .content .listing li span {
-	  font-size: 10px;
+	  font-size: 12px;
       float: right; }
     .content .listing a {
       text-decoration: none; }
