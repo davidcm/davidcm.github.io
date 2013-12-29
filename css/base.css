@@ -33,7 +33,7 @@ a {
     .sidebar .name #lname {
       font-size: 17px;
       font-weight: bold;
-      letter-spacing: 1px;
+      letter-spacing: 0px;
       color: black; }
   .sidebar .meta a {
     margin-left: 0px;
@@ -63,7 +63,7 @@ a {
 
 .content {
   max-width: 650px;
-  margin-left: 120px;
+  margin-left: 115px;
   margin-right: 20px;
   margin-bottom: 50px; }
   .content h1 {
@@ -207,3 +207,5 @@ a {
     font-weight: bold; }
   .content .talk-design .color .white {
     color: #fff; }
+  .content label {
+    width: 100px; }
