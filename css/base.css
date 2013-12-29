@@ -107,16 +107,16 @@ a {
     margin-bottom: 10px; }
   .content p {
   	font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 22px;
     margin-top: 0;
     margin-bottom: 1.2em;
     line-height: 1.7em; }
-    .content p code {
-      font-size: 12px;
-      background-color: #eeeeee;
-      border: 1px solid #777777;
-      border-radius: 3px;
-      padding: 2px 3px; }
+  .content p code {
+    font-size: 18px;
+    background-color: #eeeeee;
+    border: 1px solid #777777;
+    border-radius: 3px;
+    padding: 2px 3px; }
   .content img {
     padding: 3px;
     border: 1px solid #eeeeee;
