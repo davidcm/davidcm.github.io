@@ -106,7 +106,7 @@ a {
     padding-bottom: 5px;
     margin-bottom: 10px; }
   .content p {
-  	font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
+  	font-family: Helvetica, sans-serif;
     font-size: 20px;
     margin-top: 0;
     margin-bottom: 1.2em;
@@ -160,7 +160,7 @@ a {
   .content .listing {
     margin: 10px 0 0 0;
     padding: 0;
-    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif; }
+    font-family: Helvetica, sans-serif; }
     .content .listing ul {
       margin: 0;
       padding: 0; }
