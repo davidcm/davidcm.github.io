@@ -107,12 +107,12 @@ a {
     margin-bottom: 10px; }
   .content p {
   	font-family: Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 16px;
     margin-top: 0;
     margin-bottom: 1.2em;
     line-height: 1.7em; }
   .content p code {
-    font-size: 16px;
+    font-size: 14px;
     background-color: #eeeeee;
     border: 1px solid #777777;
     border-radius: 3px;
@@ -165,14 +165,14 @@ a {
       margin: 0;
       padding: 0; }
     .content .listing li {
-      font-size: 15px;
+      font-size: 14px;
       list-style: none;
       padding: 5px 3px;
       margin: 0;
       color: #777777;
       border-bottom: 1px solid #eee; }
     .content .listing li span {
-	  font-size: 12px;
+	  font-size: 10px;
       float: right; }
     .content .listing a {
       text-decoration: none; }
