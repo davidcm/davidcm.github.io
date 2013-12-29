@@ -208,6 +208,6 @@ a {
   .content .talk-design .color .white {
     color: #fff; }
   .content form label {
-    width: 100px; float: left; }
-  .content form submit {
-    margin-left: 100px; }
+    width: 120px; float: left; }
+  .content form .submit {
+    margin-left: 120px; }
