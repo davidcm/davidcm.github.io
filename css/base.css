@@ -218,4 +218,5 @@ a {
   .content .submit {
     margin-left: 130px; }
   .content img {
-    border: 1px solid; }
+	border-radius: 5px;
+	padding: 0px; }
