@@ -177,8 +177,8 @@ a {
 	.content .listing li img {
 	  float: left;
 	  border: 0px;
-	  width: 16px;
-	  height: 16px; }
+	  width: 24px;
+	  height: 24px; }
     .content .listing a {
       text-decoration: none; }
       .content .listing a:hover {
