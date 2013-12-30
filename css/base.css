@@ -172,13 +172,13 @@ a {
       color: #777777;
       border-bottom: 1px solid #eee; }
     .content .listing li span {
-	  font-size: 10px;
-      float: right; }
+	  font-size: 10px; }
 	.content .listing li img {
 	  float: left;
 	  border: 0px;
-	  width: 24px;
-	  height: 24px; }
+	  width: 32px;
+	  height: 32px;
+	  vertical-align: middle; }
     .content .listing a {
       text-decoration: none; }
       .content .listing a:hover {
