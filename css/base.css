@@ -217,3 +217,5 @@ a {
     width: 130px; float: left; }
   .content .submit {
     margin-left: 130px; }
+  .content img {
+    border: 1px solid; }
