@@ -168,12 +168,11 @@ a {
       font-size: 14px;
       list-style: none;
       padding: 5px 3px;
-      margin: 0px 5px;
+      margin: 0px 10px;
       color: #777777;
       border-bottom: 1px solid #eee; }
     .content .listing li span {
-	  font-size: 10px;
-	  margin-left: 5px; }
+	  font-size: 10px; }
 	.content .listing li img {
 	  margin: 0px;
 	  float: left;
@@ -182,7 +181,6 @@ a {
 	  height: 32px;
 	  vertical-align: middle; }
     .content .listing a {
-	  margin-left: 5px;
       text-decoration: none; }
       .content .listing a:hover {
         text-decoration: underline; }
