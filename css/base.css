@@ -106,7 +106,7 @@ a {
     padding-bottom: 5px;
     margin-bottom: 10px; }
   .content p {
-    color: #111;
+    color: #333;
   	font-family: Helvetica, sans-serif;
     font-size: 15px;
     margin-top: 0;
@@ -178,8 +178,8 @@ a {
 	  margin: 0px;
 	  float: left;
 	  border: 0px;
-	  width: 32px;
-	  height: 32px;
+	  width: 64px;
+	  height: 64px;
 	  vertical-align: middle; }
     .content .listing a {
       text-decoration: none; }
