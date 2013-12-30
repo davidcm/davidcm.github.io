@@ -173,7 +173,7 @@ a {
       border-bottom: 1px solid #eee; }
     .content .listing li span {
 	  font-size: 10px;
-      float: right; }
+      float: left; }
     .content .listing a {
       text-decoration: none; }
       .content .listing a:hover {
