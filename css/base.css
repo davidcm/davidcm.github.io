@@ -168,13 +168,14 @@ a {
       font-size: 14px;
       list-style: none;
       padding: 5px 3px;
-      margin: 5;
+      margin-left: 5px;
       color: #777777;
       border-bottom: 1px solid #eee; }
     .content .listing li span {
-	  font-size: 10px; }
+	  font-size: 10px;
+	  margin-left: 5px; }
 	.content .listing li img {
-	  margin: 0;
+	  margin: 0px;
 	  float: left;
 	  border: 0px;
 	  width: 32px;
