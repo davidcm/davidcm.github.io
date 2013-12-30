@@ -168,7 +168,7 @@ a {
       font-size: 14px;
       list-style: none;
       padding: 5px 3px;
-      margin-left: 5px;
+      margin: 0px 5px;
       color: #777777;
       border-bottom: 1px solid #eee; }
     .content .listing li span {
@@ -182,6 +182,7 @@ a {
 	  height: 32px;
 	  vertical-align: middle; }
     .content .listing a {
+	  margin-left: 5px;
       text-decoration: none; }
       .content .listing a:hover {
         text-decoration: underline; }
