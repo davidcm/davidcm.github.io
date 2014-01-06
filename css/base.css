@@ -166,7 +166,7 @@ a {
       margin: 0;
       padding: 0; }
     .content .listing li {
-	  line-height: 95%;
+	  line-height: 100%;
       font-size: 14px;
       list-style: none;
       padding: 5px 3px;
