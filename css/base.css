@@ -166,6 +166,7 @@ a {
       margin: 0;
       padding: 0; }
     .content .listing li {
+	  line-height: 95%;
       font-size: 14px;
       list-style: none;
       padding: 5px 3px;
@@ -173,7 +174,6 @@ a {
       color: #777777;
       border-bottom: 1px solid #eee; }
     .content .listing li span {
-	  line-height: 80%;
 	  font-size: 10px; }
 	.content .listing li img {
 	  float: left;
