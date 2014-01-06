@@ -166,7 +166,7 @@ a {
       margin: 0;
       padding: 0; }
     .content .listing li {
-	  line-height: 90%;
+	  line-height: 95%;
       font-size: 14px;
       list-style: none;
       padding: 5px 3px;
@@ -180,8 +180,8 @@ a {
 	  border: 0px;
 	  width: 32px;
 	  height: 32px;
-	  vertical-align: middle;
-	  margin-right: 5px; }
+	  vertical-align: text-top;
+	  margin-right: 8px; }
     .content .listing a {
       text-decoration: none; }
       .content .listing a:hover {
