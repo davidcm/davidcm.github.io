@@ -167,6 +167,7 @@ a {
       padding: 0; }
     .content .listing li {
       font-size: 14px;
+	  line-height: 80%;
       list-style: none;
       padding: 5px 3px;
       margin: 0px;
@@ -179,7 +180,8 @@ a {
 	  border: 0px;
 	  width: 32px;
 	  height: 32px;
-	  vertical-align: middle; }
+	  vertical-align: middle;
+	  margin-right: 5px; }
     .content .listing a {
       text-decoration: none; }
       .content .listing a:hover {
@@ -220,5 +222,3 @@ a {
   .content img {
 	border-radius: 5px;
 	padding: 0px; }
-  .content form img {
-	margin-right: 5px; }
