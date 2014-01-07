@@ -177,7 +177,9 @@ a {
       vertical-align: -20%;
 	  font-size: 10px; }
 	.content .listing li i {
-	  float: left; }
+	  float: left;
+	  font-size: 25px;
+	  margin-right: 8px; }
 	.content .listing li img {
 	  float: left;
 	  border: 0px;
