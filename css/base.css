@@ -180,7 +180,7 @@ a {
 	  border: 0px;
 	  width: 32px;
 	  height: 32px;
-	  vertical-align: middle;
+	  vertical-align: 10%;
 	  margin-right: 8px; }
     .content .listing a {
       text-decoration: none; }
