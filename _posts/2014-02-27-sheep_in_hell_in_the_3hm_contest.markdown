@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sheep in Hell in the 3HM Contest
+title: Sheep in Hell in the 3HM contest
 category: posts
 ---
 
