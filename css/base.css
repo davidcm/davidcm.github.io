@@ -23,7 +23,7 @@ a {
     margin-left: 2px;
     border-radius: 5px; }
   .sidebar .name {
-    text-transform: uppercase;
+    //text-transform: uppercase;
     margin: 10px 0 20px 0; }
     .sidebar .name #fname {
       padding-left: 1px;
