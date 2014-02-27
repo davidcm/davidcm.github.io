@@ -228,6 +228,6 @@ a {
   .content img {
 	border-radius: 5px;
 	padding: 0px; }
-disqus_thread {
-	width: 450px;
-	font-size: 10px; }
+#disqus_thread {
+	width: 500px;
+	font-size: 12px; }
