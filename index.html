@@ -12,11 +12,9 @@ title: "Home"
 	<section class="byline">
 		{{ post.date | date: "%B %e, %Y" }}
 	</section>
-
 	{{ content }}
-	
-	<a href="{{ post.url }}#comments">Leave a comment</a>
-
+	<h3>
+		<a href="{{ post.url }}">Leave a comment</a>
+	</h3>
 	{% include postslist.html %}
-	
 </section>
