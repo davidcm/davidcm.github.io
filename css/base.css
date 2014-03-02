@@ -228,11 +228,11 @@ a {
   .content img {
 	border-radius: 5px;
 	padding: 0px; }
-  .content .video iframe {
+
+#video {
     frameborder: 0;
     width: 400px;
     height: 220px; }
-
 #disqus_thread {
 	width: 500px; }
 #dsq-content #dsq-comments .dsq-comment {

@@ -10,7 +10,7 @@ Three Headed Monkey (3HM) Awards is a contest driven by the [UPC videogames](htt
 
 [Ángel](http://rtypex.com) had the idea of participating and, frankly, it's never a bad idea to push our work further in order to reach more people. It's a good timing too, since version 1.1 of the game is very close to its release. Stay tuned!
 
-<iframe src="//www.youtube-nocookie.com/embed/kSNr3nP3Iy8?rel=0" allowfullscreen class="video"></iframe>
+<iframe id="video" src="//www.youtube-nocookie.com/embed/kSNr3nP3Iy8?rel=0" allowfullscreen></iframe>
 
 The trailer we submitted.
 
