@@ -18,8 +18,13 @@
     padding: 3px; }
     .sidebar .sections a {
       margin: 0 10px 0 0; }
-    .sidebar .sections .projects {
-      float: left; }
+  .sidebar .projects {
+  	float: left;
+    font-size: 17px;
+    margin: 0;
+    padding: 3px; }
+    .sidebar .projects a {
+      margin: 0 10px 0 0; }
 
 .content {
   margin: 0;
