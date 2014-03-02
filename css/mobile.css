@@ -2,13 +2,11 @@
   position: inherit;
   width: inherit;
   margin: 0;
-  color: black;
   padding: 5px; }
   .sidebar img {
   	float: left;
-  	width: 128px;
-  	height: 128px;
-    display: inline; }
+  	width: 32px;
+  	height: 32px; }
   .sidebar ul {
     padding: 5px; }
   .sidebar li {

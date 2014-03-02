@@ -12,9 +12,9 @@ a {
   left: 15px;
   top: 15px;
   width: 90px;
-  color: black;
   font-family: "Yanone Kaffeesatz", Helvetica, sans-serif; }
   .sidebar a {
+    color: black;
     text-decoration: none; }
   .sidebar img {
     padding: 0 3px;
