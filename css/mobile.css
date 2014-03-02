@@ -19,9 +19,7 @@
     margin: 0; }
     .sidebar .sections a {
       margin: 0 10px 0 0;
-      padding: 3px 5px; }
-    .sidebar .sections .projects {
-      float: right; }
+      padding: 3px; }
 
 .content {
   margin: 0;
