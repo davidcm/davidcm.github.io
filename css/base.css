@@ -228,6 +228,10 @@ a {
   .content img {
 	border-radius: 5px;
 	padding: 0px; }
+  .content .video iframe {
+    frameborder: 0px;
+    width: 640px;
+    height: 480px; }
 
 #disqus_thread {
 	width: 500px; }
