@@ -30,6 +30,11 @@
   .content h1 {
     margin: 0 0 5px 0; }
 
+#video {
+	border-radius: 5px;
+	padding: 0px;
+    border: 0px;
+    width: inherit; }
 #disqus_thread {
 	width: inherit; }
 #dsq-content #dsq-comments .dsq-comment {

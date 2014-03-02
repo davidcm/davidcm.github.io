@@ -231,8 +231,8 @@ a {
 
 #video {
 	border-radius: 5px;
-	padding: 0px; }
-    frameborder: 0px;
+	padding: 0px;
+    border: 0px;
     width: 400px;
     height: 220px; }
 #disqus_thread {
