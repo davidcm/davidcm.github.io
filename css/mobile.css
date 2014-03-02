@@ -13,11 +13,11 @@
   .sidebar ul {
     padding: 5px; }
   .sidebar li {
-    display: block; }
+    display: inline; }
   .sidebar .sections {
+    font-size: 16px;
     margin: 0; }
     .sidebar .sections a {
-      font-size: 16px;
       margin: 0 10px 0 0;
       padding: 3px 5px; }
 
