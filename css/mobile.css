@@ -3,11 +3,12 @@
   width: inherit;
   margin: 0;
   padding: 5px; }
+  .sidebar .name {
+    margin: 20px 0 20px 0; }
   .sidebar img {
   	float: left;
   	width: 60px;
-  	height: 60px;
-  	padding-right: 15px; }
+  	height: 60px; }
   .sidebar ul {
     padding: 5px; }
   .sidebar li {
