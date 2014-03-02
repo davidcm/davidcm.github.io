@@ -47,10 +47,10 @@ a {
     margin: 15px 0 0 0;
     color: #BBBBBB;
     font-size: 12px;
-    padding: 3px 0;
     font-weight: bold;
     display: block; }
     .sidebar .sections a {
+      padding: 3px 0;
       color: black; }
       .sidebar .sections a:hover {
         color: #227ce8; }
