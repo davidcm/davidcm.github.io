@@ -45,12 +45,13 @@ a {
     margin-right: 6px; }
   .sidebar .sections {
     margin: 15px 0 0 0;
-    color: gray;
-    font-weight: bold;
+    color: #C5C5C5;
     font-size: 12px;
     padding: 3px 0;
     display: block; }
     .sidebar .sections a {
+      font-weight: bold;
+      padding: 5px 0;
       color: black; }
       .sidebar .sections a:hover {
         color: #227ce8; }
