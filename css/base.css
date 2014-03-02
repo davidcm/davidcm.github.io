@@ -30,7 +30,7 @@ a {
       letter-spacing: 5px;
       color: black; }
     .sidebar .name #lname {
-      font-size: 36px;
+      font-size: 32px;
       letter-spacing: 0px;
       color: black; }
   .sidebar .meta a {
@@ -45,7 +45,7 @@ a {
   .sidebar .sections {
     margin: 15px 0 0 0;
     color: #BBBBBB;
-    font-size: 20px;
+    font-size: 17px;
     display: block; }
     .sidebar .sections a {
       padding: 3px 0;
@@ -96,14 +96,14 @@ a {
     color: #111;
     text-decoration: none; }
   .content h1 {
-    font-size: 36px;
+    font-size: 32px;
     margin: 18px 0 5px 0; }
   .content h2 {
-    font-size: 27px;
+    font-size: 24px;
     margin-bottom: 15px; }
   .content h3 {
     color: #777;
-    font-size: 22px;
+    font-size: 20px;
     padding-bottom: 5px;
     margin-bottom: 10px; }
   .content p {
