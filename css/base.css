@@ -50,7 +50,7 @@ a {
     font-weight: bold;
     display: block; }
     .sidebar .sections a {
-      padding: 3px 0;
+      padding: 3px 5px;
       color: black; }
       .sidebar .sections a:hover {
         color: #227ce8; }
