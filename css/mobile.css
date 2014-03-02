@@ -4,26 +4,19 @@
   margin: 0;
   padding: 5px; }
   .sidebar img {
-  	float: right;
+  	float: left;
   	width: 60px;
-  	height: 60px; }
+  	height: 60px;
+  	padding-right: 5px; }
   .sidebar ul {
     padding: 5px; }
   .sidebar li {
     display: block; }
   .sidebar .sections {
-  	float: right;
     font-size: 17px;
     margin: 0;
     padding: 3px; }
     .sidebar .sections a {
-      margin: 0 10px 0 0; }
-  .sidebar .projects {
-  	float: left;
-    font-size: 17px;
-    margin: 0;
-    padding: 3px; }
-    .sidebar .projects a {
       margin: 0 10px 0 0; }
 
 .content {
