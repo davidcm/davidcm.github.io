@@ -2,7 +2,7 @@
   position: inherit;
   width: inherit;
   margin: 0;
-  padding: 25px; }
+  padding: 5px; }
   .sidebar img {
   	float: right;
     display: inline; }
@@ -13,22 +13,22 @@
   .sidebar .meta {
     display: none; }
   .sidebar ul {
-    padding: 25px; }
+    padding: 5px; }
   .sidebar li {
     display: inline; }
   .sidebar .sections {
     margin: 0; }
     .sidebar .sections a {
       font-size: 16px;
-      margin: 0 20px 0 0;
-      padding: 5px 10px; }
+      margin: 0 10px 0 0;
+      padding: 3px 5px; }
 
 .content {
   margin: 0;
-  padding: 5px 25px;
+  padding: 3px 5px;
   width: inherit; }
   .content h1 {
-    margin: 0 0 5px 0; }
+    margin: 0 0 3px 0; }
 
 #video {
 	border-radius: 5px;
