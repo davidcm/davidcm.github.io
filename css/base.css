@@ -23,16 +23,9 @@ a {
     margin-left: 2px;
     border-radius: 5px; }
   .sidebar .name {
-    margin: 10px 0 20px 0; }
-    .sidebar .name #fname {
-      padding-left: 1px;
-      font-size: 23px;
-      letter-spacing: 5px;
-      color: black; }
-    .sidebar .name #lname {
-      font-size: 32px;
-      letter-spacing: 0px;
-      color: black; }
+    margin: 10px 0 20px 0;
+    font-size: 32px;
+    color: black; }
   .sidebar .meta a {
     margin-left: 0px;
     color: black; }

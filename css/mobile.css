@@ -6,16 +6,12 @@
   .sidebar img {
   	float: right;
     display: inline; }
-  .sidebar .name {
-    display: inline; }
-    .sidebar .name #fname, .sidebar .name #lname {
-      font-size: 25px; }
   .sidebar ul {
     padding: 5px; }
   .sidebar li {
     display: block; }
   .sidebar .sections {
-    font-size: 16px;
+    font-size: 17px;
     margin: 0;
     padding: 3px; }
     .sidebar .sections a {
