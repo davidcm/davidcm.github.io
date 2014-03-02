@@ -2,9 +2,12 @@
   position: inherit;
   width: inherit;
   margin: 0;
+  color: black;
   padding: 5px; }
   .sidebar img {
-  	float: right;
+  	float: left;
+  	width: 128px;
+  	height: 128px;
     display: inline; }
   .sidebar ul {
     padding: 5px; }
