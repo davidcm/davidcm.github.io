@@ -13,7 +13,8 @@
   .sidebar ul {
     padding: 5px; }
   .sidebar .sections {
-    margin: 0; }
+    margin: 0;
+    font-weight: bold; }
     .sidebar .sections a {
       font-size: 16px;
       margin: 0 10px 0 0;
