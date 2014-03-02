@@ -11,12 +11,13 @@
     .sidebar .name #fname, .sidebar .name #lname {
       font-size: 25px; }
   .sidebar ul {
-    padding: 8px; }
+    padding: 5px; }
   .sidebar li {
     display: block; }
   .sidebar .sections {
     font-size: 16px;
-    margin: 0; }
+    margin: 0;
+    padding: 3px; }
     .sidebar .sections a {
       margin: 0 10px 0 0; }
 
