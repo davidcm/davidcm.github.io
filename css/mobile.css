@@ -1,7 +1,5 @@
 .sidebar {
   position: inherit;
-  left: inherit;
-  top: inherit;
   width: inherit;
   margin: 0;
   padding: 5px; }
@@ -14,8 +12,6 @@
       font-size: 25px; }
   .sidebar ul {
     padding: 5px; }
-  .sidebar li {
-    display: inline; }
   .sidebar .sections {
     margin: 0; }
     .sidebar .sections a {
