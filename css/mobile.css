@@ -10,8 +10,6 @@
     display: inline; }
     .sidebar .name #fname, .sidebar .name #lname {
       font-size: 25px; }
-  .sidebar .meta {
-    display: none; }
   .sidebar ul {
     padding: 5px; }
   .sidebar li {
