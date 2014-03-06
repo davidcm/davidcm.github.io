@@ -77,25 +77,25 @@ Trailer for 3HM Awards
 Images
 ------
 
-[Download all](sheepinhell/screenshots.zip)
-![Screenshot 1](sheepinhell/screenshot1.png)
-![Screenshot 2](sheepinhell/screenshot2.png)
-![Screenshot 3](sheepinhell/screenshot3.png)
-![Screenshot 4](sheepinhell/screenshot4.png)
-![Screenshot 5](sheepinhell/screenshot5.png)
-![Screenshot 6](sheepinhell/screenshot6.png)
-![Screenshot 7](sheepinhell/screenshot7.png)
-![Screenshot 8](sheepinhell/screenshot8.png)
-![Screenshot 9](sheepinhell/screenshot9.png)
+[Download all](screenshots.zip)
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+![Screenshot 3](screenshot3.png)
+![Screenshot 4](screenshot4.png)
+![Screenshot 5](screenshot5.png)
+![Screenshot 6](screenshot6.png)
+![Screenshot 7](screenshot7.png)
+![Screenshot 8](screenshot8.png)
+![Screenshot 9](screenshot9.png)
 
 <a id="logobannericon"></a>
 Logo, banner and icon
 ---------------------
 
-[Download all](sheepinhell/logos.zip)
-![Logo](sheepinhell/logo.png)
-![Banner](sheepinhell/banner.png)
-![Icon](sheepinhell/icon.png)
+[Download all](logos.zip)
+![Logo](logo.png)
+![Banner](banner.png)
+![Icon](icon.png)
 
 <a id="links"></a>
 Links
