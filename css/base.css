@@ -9,14 +9,13 @@ body {
 a {
   color: #227ce8; }
 
-ul {
-  margin: 0;
-  padding: 0; }
 li {
   margin-bottom: 10px;
-  line-height: 1.4em;
+  line-height: 14px;
+  font-size: 14px;
   list-style: square;
   padding: 3px 3px;
+  margin: 15px;
   color: #777777; }
 li img {
   border: 0px;
