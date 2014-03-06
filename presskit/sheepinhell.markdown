@@ -24,6 +24,7 @@ Factsheet
 ---------
 
 <p>
+	Team:
 	<ul class="listing">
 	  <li>Artist: Ángel García</li>
 	  <li>Programmer: David Corominas</li>
@@ -33,6 +34,7 @@ Factsheet
 </p>
 
 <p>
+	Game info:
 	<ul class="listing">
 	  <li>Release date: January 7th, 2014</li>
 	  <li>Platforms: iOS, Android</li>
@@ -111,7 +113,7 @@ Links
 <ul class="listing">
   <li><i class="icon icon-external-link"></i>Artist: <a href="http://www.rtypex.com">rtypex.com</a></li>
   <li><i class="icon icon-external-link"></i>Programmer: <a href="http://www.david.cm">david.cm</a></li>
-  <li><i class="icon icon-external-link"></i>Artist: <a href="http://www.atic2a.com">atic2a.com</a></li>
+  <li><i class="icon icon-external-link"></i>Musicians: <a href="http://www.atic2a.com">atic2a.com</a></li>
   <li><i class="icon icon-external-link"></i><a href="https://itunes.apple.com/us/app/sheep-in-hell/id788371896?mt=8">Apple AppStore</a></li>
 </ul>
 
