@@ -35,7 +35,7 @@ Factsheet
   <li>Platforms: iOS, Android</li>
   <li>Regular price: $0.99, 0.89€</li>
   <li>Website 1: <a href="http://david.cm/sheepinhell">david.cm/sheepinhell</a></li>
-  <li>Website 2: <a href="http://rtypex.com/juegos/sheep-in-hell/>rtypex.com/juegos/sheep-in-hell</a></li>
+  <li>Website 2: <a href="http://rtypex.com/juegos/sheep-in-hell/">rtypex.com/juegos/sheep-in-hell</a></li>
 </ul>
 
 <a id="factsheet"></a>
@@ -82,7 +82,7 @@ Trailer for 3HM Awards
 Images
 ------
 
-<i class="icon icon-download-alt"></i><a class="listing" href="sheepinhell_contents/screenshots.zip">Download all</a>
+Download all <a href="sheepinhell_contents/screenshots.zip"><i class="icon icon-download-alt"></i></a>
 
 <img class="smallimg" src="sheepinhell_contents/screenshot1.png">
 <img class="smallimg" src="sheepinhell_contents/screenshot2.png">
@@ -98,7 +98,7 @@ Images
 Logo, banner and icon
 ---------------------
 
-<i class="icon icon-download-alt"></i><a class="listing" href="sheepinhell_contents/logos.zip">Download all</a>
+Download all <a href="sheepinhell_contents/logos.zip"><i class="icon icon-download-alt"></i></a>
 
 ![Logo](sheepinhell_contents/logo.png)
 ![Banner](sheepinhell_contents/banner.png)
