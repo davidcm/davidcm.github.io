@@ -84,9 +84,9 @@ Images
 
 <i class="icon icon-download-alt"></i><a class="listing" href="sheepinhell_contents/screenshots.zip">Download all</a>
 
-<img class="small" src="sheepinhell_contents/screenshot1.png">
-<img class="small" src="sheepinhell_contents/screenshot2.png">
-<img class="small" src="sheepinhell_contents/screenshot3.png">
+<img class="smallimg" src="sheepinhell_contents/screenshot1.png">
+<img class="smallimg" src="sheepinhell_contents/screenshot2.png">
+<img class="smallimg" src="sheepinhell_contents/screenshot3.png">
 <img class="small" src="sheepinhell_contents/screenshot4.png">
 <img class="small" src="sheepinhell_contents/screenshot5.png">
 <img class="small" src="sheepinhell_contents/screenshot6.png">
