@@ -221,7 +221,7 @@ a {
   .content .submit {
     margin-left: 130px; }
   .content .small img {
-	max-width: 40%; }
+	max-width: 300px; }
 
 #video {
 	border-radius: 8px;
