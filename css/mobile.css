@@ -1,3 +1,6 @@
+body {
+  background-image: url("/images/bg-horz.png"); }
+
 .sidebar {
   position: inherit;
   width: inherit;
