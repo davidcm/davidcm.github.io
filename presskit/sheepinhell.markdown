@@ -84,15 +84,17 @@ Images
 
 Download all <a href="sheepinhell_contents/screenshots.zip"><i class="icon icon-download-alt"></i></a>
 
-<img class="smallimg" src="sheepinhell_contents/screenshot1.png">
-<img class="smallimg" src="sheepinhell_contents/screenshot2.png">
-<img class="smallimg" src="sheepinhell_contents/screenshot3.png">
-<img class="small" src="sheepinhell_contents/screenshot4.png">
-<img class="small" src="sheepinhell_contents/screenshot5.png">
-<img class="small" src="sheepinhell_contents/screenshot6.png">
-<img class="small" src="sheepinhell_contents/screenshot7.png">
-<img class="small" src="sheepinhell_contents/screenshot8.png">
-<img class="small" src="sheepinhell_contents/screenshot9.png">
+<section class="gallery">
+	<img src="sheepinhell_contents/screenshot1.png">
+	<img src="sheepinhell_contents/screenshot2.png">
+	<img src="sheepinhell_contents/screenshot3.png">
+	<img src="sheepinhell_contents/screenshot4.png">
+	<img src="sheepinhell_contents/screenshot5.png">
+	<img src="sheepinhell_contents/screenshot6.png">
+	<img src="sheepinhell_contents/screenshot7.png">
+	<img src="sheepinhell_contents/screenshot8.png">
+	<img src="sheepinhell_contents/screenshot9.png">
+</section>
 
 <a id="logobannericon"></a>
 Logo, banner and icon

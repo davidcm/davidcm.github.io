@@ -120,9 +120,6 @@ a {
 	border-radius: 8px;
 	padding: 0px;
     max-width: 100%; }
-  .content .smallimg img {
-  	border: 5px solid #FF0000;
-	max-width: 200px; }
   .content hr {
     border: 0;
     height: 6px;
@@ -224,6 +221,10 @@ a {
   .content .submit {
     margin-left: 130px; }
 
+  .gallery img {
+  	border: 5px solid #FF0000;
+	max-width: 200px; }
+	
 #video {
 	border-radius: 8px;
 	padding: 0px;
