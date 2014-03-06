@@ -29,13 +29,9 @@
 
 <body>
   <section class="sidebar">
-    <a href="/">
-      <img src="{{ site.gravatar_url }}?s=150" height="75" width="75" class="avatar" />
-    </a>
+    <a href="/"><img src="{{ site.gravatar_url }}?s=150" height="75" width="75" class="avatar" /></a>
     <section class="name">
-      <a href="/">
-        <span id="lname">{{ site.name }}</span>
-      </a>
+      <a href="/"><span id="lname">{{ site.name }}</span></a>
     </section>
     <section class="meta">
       <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="icon icon-twitter"></i></a>
@@ -54,7 +50,7 @@
         <li><a href="http://projectrien.wordpress.com/">rien</a></li>
         <li><a href="http://archive.globalgamejam.org/2012/immaturity">immaturity</a></li>
 	  </ul>
-    </sections>
+    </section>
   </section>
   {{ content }}
   {% include ga.html %}
