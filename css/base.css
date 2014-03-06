@@ -222,8 +222,8 @@ a {
     margin-left: 130px; }
 
   .gallery img {
-  	border: 5px solid #FF0000;
-	max-width: 200px; }
+  	border: 1px solid #227ce8;
+	max-width: 45%; }
 	
 #video {
 	border-radius: 8px;

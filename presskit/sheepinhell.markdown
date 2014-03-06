@@ -85,15 +85,11 @@ Images
 Download all <a href="sheepinhell_contents/screenshots.zip"><i class="icon icon-download-alt"></i></a>
 
 <section class="gallery">
-	<img src="sheepinhell_contents/screenshot1.png">
-	<img src="sheepinhell_contents/screenshot2.png">
-	<img src="sheepinhell_contents/screenshot3.png">
-	<img src="sheepinhell_contents/screenshot4.png">
-	<img src="sheepinhell_contents/screenshot5.png">
-	<img src="sheepinhell_contents/screenshot6.png">
-	<img src="sheepinhell_contents/screenshot7.png">
-	<img src="sheepinhell_contents/screenshot8.png">
-	<img src="sheepinhell_contents/screenshot9.png">
+{% for i in (1..9) %}
+	<a href="sheepinhell_contents/screenshot{{ i }}.png">
+		<img src="sheepinhell_contents/screenshot{{ i }}.png">
+	</a>
+{% endfor %}
 </section>
 
 <a id="logobannericon"></a>
