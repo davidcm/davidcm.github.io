@@ -19,7 +19,7 @@
     padding: 3px;
     float: left; }
   .sidebar .projects {
-    position: fixed;
+    position: absolute;
     right: 5px;
     top: 40px;
     text-align: right; }
