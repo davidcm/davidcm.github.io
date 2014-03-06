@@ -29,7 +29,6 @@ Factsheet
   <li>Musicians: Carles Gumí, Pau Damià Riera</li>
   <li>Based in: Spain</li>
 </ul>
-
 <ul class="listing">
   <li>Release date: January 7th, 2014</ul>
   <li>Platforms: iOS, Android</li>
