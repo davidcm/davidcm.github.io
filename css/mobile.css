@@ -5,6 +5,7 @@
   padding: 5px; }
   .sidebar .name {
     font-size: 36px;
+    position: relative;
     left: 5px; }
   .sidebar img {
   	float: left;
@@ -22,7 +23,7 @@
     .sidebar .sections .projects {
       position: fixed;
       right: 5px;
-      top: 65px;
+      top: 50px;
       text-align: right; }
 
 .content {
