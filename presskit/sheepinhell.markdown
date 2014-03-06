@@ -94,21 +94,22 @@ Logo, banner and icon
 
 Download all <a href="sheepinhell_contents/logos.zip"><i class="icon icon-download-alt"></i></a>
 
-![Logo](sheepinhell_contents/logo.png)
-![Banner](sheepinhell_contents/banner.png)
-![Icon](sheepinhell_contents/icon.png)
+<section class="gallery">
+<a href="sheepinhell_contents/logo.png"><img src="sheepinhell_contents/logo.png"></a>
+<a href="sheepinhell_contents/banner.png"><img src="sheepinhell_contents/banner.png"></a>
+<a href="sheepinhell_contents/icon.png"><img src="sheepinhell_contents/icon.png"></a>
+</section>
 
 <a id="links"></a>
 Links
 -----
 
-**Artist:** <http://www.rtypex.com>
-
-**Programmer:** <http://www.david.cm>
-
-**Musicians:** <http://www.atic2a.com>
-
-**Apple AppStore:** <https://itunes.apple.com/us/app/sheep-in-hell/id788371896?mt=8>
+<ul class="listing">
+  <li><i class="icon icon-external-link"></i>Artist: <a href="http://www.rtypex.com">rtypex.com</a></li>
+  <li><i class="icon icon-external-link"></i>Programmer: <a href="http://www.david.cm">david.cm</a></li>
+  <li><i class="icon icon-external-link"></i>Artist: <a href="http://www.atic2a.com">atic2a.com</a></li>
+  <li><i class="icon icon-external-link"></i><a href="https://itunes.apple.com/us/app/sheep-in-hell/id788371896?mt=8">Apple AppStore</a></li>
+</ul>
 
 <a id="contact"></a>
 Contact
