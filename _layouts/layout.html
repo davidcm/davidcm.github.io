@@ -32,26 +32,22 @@
     <a href="/">
       <img src="{{ site.gravatar_url }}?s=150" height="75" width="75" class="avatar" />
     </a>
-
     <section class="name">
       <a href="/">
-        <!--<span id="fname">{{ site.name|split:' '|first }}</span>-->
         <span id="lname">{{ site.name }}</span>
       </a>
     </section>
-
     <section class="meta">
-      <!--<a href="https://github.com/{{ site.github }}" target="_blank"><i class="icon icon-github"></i></a>-->
       <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="icon icon-twitter"></i></a>
       <a href="/atom.xml"><i class="icon icon-rss"></i></a>
     </section>
-
     <section class="sections">
       <ul>
         <li><a href="/about">about</a></li>
         <li><a href="/support">support</a></li>
       </ul>
-      <br>
+    </section>
+    <section class="sections projects">
       <ul>
         <li>projects</li>
         <li><a href="/sheepinhell">sheep in hell</a></li>
@@ -59,12 +55,8 @@
         <li><a href="http://archive.globalgamejam.org/2012/immaturity">immaturity</a></li>
 	  </ul>
     </sections>
-
   </section>
-
   {{ content }}
-  
   {% include ga.html %}
 </body>
-
 </html>
