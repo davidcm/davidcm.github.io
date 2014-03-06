@@ -13,9 +13,9 @@ ul {
   margin: 0;
   padding: 0; }
 li {
-  line-height: 100%;
+  line-height: 40%;
   font-size: 14px;
-  list-style: none;
+  list-style: square;
   padding: 5px 3px;
   margin: 0px;
   color: #777777; }
