@@ -23,21 +23,20 @@ Contents
 Factsheet
 ---------
 
-**Artist:** Ángel García
+<ul class="listing">
+  <li>Artist: Ángel García</li>
+  <li>Programmer: David Corominas</li>
+  <li>Musicians: Carles Gumí, Pau Damià Riera</li>
+  <li>Based in: Spain</li>
+</ul>
 
-**Programmer:** David Corominas
-
-**Musicians:** Carles Gumí, Pau Damià Riera
-
-**Based in:** Spain
-
-**Release date:** January 7th, 2014
-
-**Platforms:** iOS, Android
-
-**Websites:** <http://david.cm/sheepinhell>, <http://rtypex.com/juegos/sheep-in-hell/>
-
-**Regular price:** $0.99, 0.89€
+<ul class="listing">
+  <li>Release date: January 7th, 2014</ul>
+  <li>Platforms: iOS, Android</li>
+  <li>Regular price: $0.99, 0.89€</li>
+  <li>Website 1: <a href="http://david.cm/sheepinhell">david.cm/sheepinhell</a></li>
+  <li>Website 2: <a href="http://rtypex.com/juegos/sheep-in-hell/>rtypex.com/juegos/sheep-in-hell</a></li>
+</ul>
 
 <a id="factsheet"></a>
 About us
@@ -57,12 +56,14 @@ Break through the dungeons, solve challenges and escape this hell... If you can!
 Features
 --------
 
-- Intuitive and responsive controls
-- Three difficulty levels
-- Always different procedural dungeons
-- Challenges of increasing difficulty
-- Many kinds of enemies to discover
-- And more
+<ul class="listing">
+  <li><i class="icon icon-ok"></i>Intuitive and responsive controls</li>
+  <li><i class="icon icon-ok"></i>Three difficulty levels</li>
+  <li><i class="icon icon-ok"></i>Always different procedural dungeons</li>
+  <li><i class="icon icon-ok"></i>Challenges of increasing difficulty</li>
+  <li><i class="icon icon-ok"></i>Many kinds of enemies to discover</li>
+  <li><i class="icon icon-ok"></i>And more!</li>
+</ul>
 
 <a id="history"></a>
 History
@@ -81,24 +82,22 @@ Trailer for 3HM Awards
 Images
 ------
 
-icon-download-alt
-[Download all](sheepinhell_contents/screenshots.zip)
-![Screenshot 1](sheepinhell_contents/screenshot1.png)
-![Screenshot 2](sheepinhell_contents/screenshot2.png)
-![Screenshot 3](sheepinhell_contents/screenshot3.png)
-![Screenshot 4](sheepinhell_contents/screenshot4.png)
-![Screenshot 5](sheepinhell_contents/screenshot5.png)
-![Screenshot 6](sheepinhell_contents/screenshot6.png)
-![Screenshot 7](sheepinhell_contents/screenshot7.png)
-![Screenshot 8](sheepinhell_contents/screenshot8.png)
-![Screenshot 9](sheepinhell_contents/screenshot9.png)
+<i class="icon icon-download-alt"><a href="sheepinhell_contents/screenshots.zip">Download all</a></i>
+<img name="picture" src="sheepinhell_contents/screenshot1.png">
+<img name="picture" src="sheepinhell_contents/screenshot2.png">
+<img name="picture" src="sheepinhell_contents/screenshot3.png">
+<img name="picture" src="sheepinhell_contents/screenshot4.png">
+<img name="picture" src="sheepinhell_contents/screenshot5.png">
+<img name="picture" src="sheepinhell_contents/screenshot6.png">
+<img name="picture" src="sheepinhell_contents/screenshot7.png">
+<img name="picture" src="sheepinhell_contents/screenshot8.png">
+<img name="picture" src="sheepinhell_contents/screenshot9.png">
 
 <a id="logobannericon"></a>
 Logo, banner and icon
 ---------------------
 
-icon-download-alt
-[Download all](sheepinhell_contents/logos.zip)
+<i class="icon icon-download-alt"><a href="sheepinhell_contents/logos.zip">Download all</a></i>
 ![Logo](sheepinhell_contents/logo.png)
 ![Banner](sheepinhell_contents/banner.png)
 ![Icon](sheepinhell_contents/icon.png)

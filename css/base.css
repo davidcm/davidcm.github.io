@@ -232,3 +232,5 @@ a {
 	width: 500px; }
 #dsq-content #dsq-comments .dsq-comment {
 	font-size: 12px; }
+#picture {
+	max-height: 200px; }
