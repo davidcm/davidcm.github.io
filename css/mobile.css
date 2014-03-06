@@ -25,7 +25,8 @@
 .content {
   margin: 0;
   padding: 3px 5px;
-  width: inherit; }
+  width: inherit;
+  clear: both; }
   .content h1 {
     margin: 0 0 3px 0; }
 
