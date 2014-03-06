@@ -6,16 +6,18 @@ title: Sheep in Hell Press kit
 Contents
 --------
 
-- [Factsheet](#factsheet)
-- [About us](#aboutus)
-- [Description](#description)
-- [Features](#features)
-- [History](#history)
-- [Videos](#videos)
-- [Images](#images)
-- [Logo, banner and icon](#logobannericon)
-- [Links](#links)
-- [Contact](#contact)
+<ul class="listing">
+  <li><i class="icon  icon-chevron-right"></i><a href="#factsheet">Factsheet</a></li>
+  <li><i class="icon  icon-chevron-right"></i><a href="#aboutus">About us</a></li>
+  <li><i class="icon  icon-chevron-right"></i><a href="#description">Description</a></li>
+  <li><i class="icon  icon-chevron-right"></i><a href="#features">Features</a></li>
+  <li><i class="icon  icon-chevron-right"></i><a href="#history">History</a></li>
+  <li><i class="icon  icon-chevron-right"></i><a href="#videos">Videos</a></li>
+  <li><i class="icon  icon-chevron-right"></i><a href="#images">Images</a></li>
+  <li><i class="icon  icon-chevron-right"></i><a href="#logos">Logo, banner, icon</a></li>
+  <li><i class="icon  icon-chevron-right"></i><a href="#links">Links</a></li>
+  <li><i class="icon  icon-chevron-right"></i><a href="#contact">Contact</a></li>
+</ul>
 
 <a id="factsheet"></a>
 Factsheet
@@ -79,6 +81,7 @@ Trailer for 3HM Awards
 Images
 ------
 
+icon-download-alt
 [Download all](sheepinhell_contents/screenshots.zip)
 ![Screenshot 1](sheepinhell_contents/screenshot1.png)
 ![Screenshot 2](sheepinhell_contents/screenshot2.png)
@@ -94,6 +97,7 @@ Images
 Logo, banner and icon
 ---------------------
 
+icon-download-alt
 [Download all](sheepinhell_contents/logos.zip)
 ![Logo](sheepinhell_contents/logo.png)
 ![Banner](sheepinhell_contents/banner.png)
