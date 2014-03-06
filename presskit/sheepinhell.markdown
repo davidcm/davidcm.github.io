@@ -21,19 +21,21 @@ Contents
 Factsheet
 ---------
 
-Artist: Ángel García
-Programmer: David Corominas
-Musicians: Carles Gumí, Pau Damià Riera
+**Artist:** Ángel García
 
-Based in: Spain
+**Programmer:** David Corominas
 
-Release date: January 7th, 2014
+**Musicians:** Carles Gumí, Pau Damià Riera
 
-Platforms: iOS, Android
+**Based in:** Spain
 
-Website: david.cm/sheepinhell
+**Release date:** January 7th, 2014
 
-Regular price: $0.99
+**Platforms:** iOS, Android
+
+**Websites:** <http://david.cm/sheepinhell>, <http://rtypex.com/juegos/sheep-in-hell/>
+
+**Regular price:** $0.99, 0.89€
 
 <a id="factsheet"></a>
 About us
@@ -77,37 +79,37 @@ Trailer for 3HM Awards
 Images
 ------
 
-[Download all](screenshots.zip)
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-![Screenshot 3](screenshot3.png)
-![Screenshot 4](screenshot4.png)
-![Screenshot 5](screenshot5.png)
-![Screenshot 6](screenshot6.png)
-![Screenshot 7](screenshot7.png)
-![Screenshot 8](screenshot8.png)
-![Screenshot 9](screenshot9.png)
+[Download all](sheepinhell_contents/screenshots.zip)
+![Screenshot 1](sheepinhell_contents/screenshot1.png)
+![Screenshot 2](sheepinhell_contents/screenshot2.png)
+![Screenshot 3](sheepinhell_contents/screenshot3.png)
+![Screenshot 4](sheepinhell_contents/screenshot4.png)
+![Screenshot 5](sheepinhell_contents/screenshot5.png)
+![Screenshot 6](sheepinhell_contents/screenshot6.png)
+![Screenshot 7](sheepinhell_contents/screenshot7.png)
+![Screenshot 8](sheepinhell_contents/screenshot8.png)
+![Screenshot 9](sheepinhell_contents/screenshot9.png)
 
 <a id="logobannericon"></a>
 Logo, banner and icon
 ---------------------
 
-[Download all](logos.zip)
-![Logo](logo.png)
-![Banner](banner.png)
-![Icon](icon.png)
+[Download all](sheepinhell_contents/logos.zip)
+![Logo](sheepinhell_contents/logo.png)
+![Banner](sheepinhell_contents/banner.png)
+![Icon](sheepinhell_contents/icon.png)
 
 <a id="links"></a>
 Links
 -----
 
-Artist: <http://www.rtypex.com>
-Programmer: <http://www.david.cm>
-Musicians: <http://www.atic2a.com>
-Apple AppStore: <https://itunes.apple.com/us/app/sheep-in-hell/id788371896?mt=8>
+**Artist:** <http://www.rtypex.com>
+**Programmer:** <http://www.david.cm>
+**Musicians:** <http://www.atic2a.com>
+**Apple AppStore:** <https://itunes.apple.com/us/app/sheep-in-hell/id788371896?mt=8>
 
 <a id="contact"></a>
 Contact
 -------
 
-<david.cm/support>
+<http://david.cm/support>
