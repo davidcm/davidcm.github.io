@@ -82,7 +82,7 @@ Trailer for 3HM Awards
 Images
 ------
 
-<i class="icon icon-download-alt"></i><a href="sheepinhell_contents/screenshots.zip">Download all</a>
+<i class="icon icon-download-alt"></i><a class="listing" href="sheepinhell_contents/screenshots.zip">Download all</a>
 <img src="sheepinhell_contents/screenshot1.png">
 <img src="sheepinhell_contents/screenshot2.png">
 <img src="sheepinhell_contents/screenshot3.png">
@@ -97,7 +97,8 @@ Images
 Logo, banner and icon
 ---------------------
 
-<i class="icon icon-download-alt"></i><a href="sheepinhell_contents/logos.zip">Download all</a>
+<i class="icon icon-download-alt"></i><a class="listing" href="sheepinhell_contents/logos.zip">Download all</a>
+
 ![Logo](sheepinhell_contents/logo.png)
 ![Banner](sheepinhell_contents/banner.png)
 ![Icon](sheepinhell_contents/icon.png)
