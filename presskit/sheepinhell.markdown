@@ -104,8 +104,11 @@ Links
 -----
 
 **Artist:** <http://www.rtypex.com>
+
 **Programmer:** <http://www.david.cm>
+
 **Musicians:** <http://www.atic2a.com>
+
 **Apple AppStore:** <https://itunes.apple.com/us/app/sheep-in-hell/id788371896?mt=8>
 
 <a id="contact"></a>
