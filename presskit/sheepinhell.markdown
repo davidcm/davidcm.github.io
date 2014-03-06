@@ -82,22 +82,22 @@ Trailer for 3HM Awards
 Images
 ------
 
-<i class="icon icon-download-alt"><a href="sheepinhell_contents/screenshots.zip">Download all</a></i>
-<img name="picture" src="sheepinhell_contents/screenshot1.png">
-<img name="picture" src="sheepinhell_contents/screenshot2.png">
-<img name="picture" src="sheepinhell_contents/screenshot3.png">
-<img name="picture" src="sheepinhell_contents/screenshot4.png">
-<img name="picture" src="sheepinhell_contents/screenshot5.png">
-<img name="picture" src="sheepinhell_contents/screenshot6.png">
-<img name="picture" src="sheepinhell_contents/screenshot7.png">
-<img name="picture" src="sheepinhell_contents/screenshot8.png">
-<img name="picture" src="sheepinhell_contents/screenshot9.png">
+<i class="icon icon-download-alt"></i><a href="sheepinhell_contents/screenshots.zip">Download all</a>
+<img src="sheepinhell_contents/screenshot1.png">
+<img src="sheepinhell_contents/screenshot2.png">
+<img src="sheepinhell_contents/screenshot3.png">
+<img src="sheepinhell_contents/screenshot4.png">
+<img src="sheepinhell_contents/screenshot5.png">
+<img src="sheepinhell_contents/screenshot6.png">
+<img src="sheepinhell_contents/screenshot7.png">
+<img src="sheepinhell_contents/screenshot8.png">
+<img src="sheepinhell_contents/screenshot9.png">
 
 <a id="logobannericon"></a>
 Logo, banner and icon
 ---------------------
 
-<i class="icon icon-download-alt"><a href="sheepinhell_contents/logos.zip">Download all</a></i>
+<i class="icon icon-download-alt"></i><a href="sheepinhell_contents/logos.zip">Download all</a>
 ![Logo](sheepinhell_contents/logo.png)
 ![Banner](sheepinhell_contents/banner.png)
 ![Icon](sheepinhell_contents/icon.png)

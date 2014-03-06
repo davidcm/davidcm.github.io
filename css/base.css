@@ -220,7 +220,8 @@ a {
     margin-left: 130px; }
   .content img {
 	border-radius: 8px;
-	padding: 0px; }
+	padding: 0px;
+	max-height: 100px; }
 
 #video {
 	border-radius: 8px;
@@ -232,5 +233,3 @@ a {
 	width: 500px; }
 #dsq-content #dsq-comments .dsq-comment {
 	font-size: 12px; }
-#picture {
-	max-height: 200px; }
