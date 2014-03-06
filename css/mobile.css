@@ -19,6 +19,9 @@
     padding: 3px; }
     .sidebar .sections a {
       margin: 0 10px 0 0; }
+    .sidebar .sections .projects {
+      float: right;
+      text-align: right; }
 
 .content {
   margin: 0;
