@@ -13,14 +13,12 @@ ul {
   margin: 0;
   padding: 0; }
 li {
-  line-height: 40%;
-  font-size: 14px;
+  margin-bottom: 10px;
+  line-height: 1.4em;
   list-style: square;
-  padding: 5px 3px;
-  margin: 0px;
+  padding: 3px 3px;
   color: #777777; }
 li img {
-  float: left;
   border: 0px;
   max-height: 150px; }
 li a {
