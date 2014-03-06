@@ -121,7 +121,8 @@ a {
 	padding: 0px;
     max-width: 100%; }
   .content .smallimg img {
-	width: 300px; }
+  	border: 5px solid #FF0000;
+	max-width: 200px; }
   .content hr {
     border: 0;
     height: 6px;
