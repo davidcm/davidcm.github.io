@@ -117,6 +117,8 @@ a {
   .content img {
     padding: 3px;
     border: 1px solid #eeeeee;
+	border-radius: 8px;
+	padding: 0px;
     max-width: 100%; }
   .content hr {
     border: 0;
@@ -218,10 +220,8 @@ a {
     width: 130px; float: left; }
   .content .submit {
     margin-left: 130px; }
-  .content img {
-	border-radius: 8px;
-	padding: 0px;
-	max-height: 200px; }
+  .content .small img {
+	max-width: 40%; }
 
 #video {
 	border-radius: 8px;
