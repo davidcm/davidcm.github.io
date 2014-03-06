@@ -86,9 +86,7 @@ Download all <a href="sheepinhell_contents/screenshots.zip"><i class="icon icon-
 
 <section class="gallery">
 {% for i in (1..9) %}
-<a href="sheepinhell_contents/screenshot{{ i }}.png">
-	<img src="sheepinhell_contents/screenshot{{ i }}.png">
-</a>
+<a href="sheepinhell_contents/screenshot{{ i }}.png"><img src="sheepinhell_contents/screenshot{{ i }}.png"></a>
 {% endfor %}
 </section>
 
