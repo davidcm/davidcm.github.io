@@ -23,20 +23,24 @@ Contents
 Factsheet
 ---------
 
-<ul class="listing">
-  <li>Artist: Ángel García</li>
-  <li>Programmer: David Corominas</li>
-  <li>Musicians: Carles Gumí, Pau Damià Riera</li>
-  <li>Based in: Spain</li>
-</ul>
+<p>
+	<ul class="listing">
+	  <li>Artist: Ángel García</li>
+	  <li>Programmer: David Corominas</li>
+	  <li>Musicians: Carles Gumí, Pau Damià Riera</li>
+	  <li>Based in: Spain</li>
+	</ul>
+</p>
 
-<ul class="listing">
-  <li>Release date: January 7th, 2014</li>
-  <li>Platforms: iOS, Android</li>
-  <li>Regular price: $0.99, 0.89€</li>
-  <li>Website 1: <a href="http://david.cm/sheepinhell">david.cm/sheepinhell</a></li>
-  <li>Website 2: <a href="http://rtypex.com/juegos/sheep-in-hell/">rtypex.com/juegos/sheep-in-hell</a></li>
-</ul>
+<p>
+	<ul class="listing">
+	  <li>Release date: January 7th, 2014</li>
+	  <li>Platforms: iOS, Android</li>
+	  <li>Regular price: $0.99, 0.89€</li>
+	  <li>Website 1: <a href="http://david.cm/sheepinhell">david.cm/sheepinhell</a></li>
+	  <li>Website 2: <a href="http://rtypex.com/juegos/sheep-in-hell/">rtypex.com/juegos/sheep-in-hell</a></li>
+	</ul>
+</p>
 
 <a id="factsheet"></a>
 About us
