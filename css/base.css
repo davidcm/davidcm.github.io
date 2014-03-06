@@ -23,7 +23,7 @@ a {
   .sidebar .avatar {
     padding: 0;
     margin-left: 2px;
-    border-radius: 5px; }
+    border-radius: 8px; }
   .sidebar .name {
     margin: 10px 0 20px 0;
     font-size: 32px; }
@@ -198,7 +198,7 @@ a {
       margin-top: 0px;
       margin-right: 10px;
       margin-left: -60px;
-      border-radius: 4px; }
+      border-radius: 5px; }
     .content .meta .copy {
       padding-left: 60px; }
     .content .meta iframe {
@@ -218,7 +218,7 @@ a {
   .content .submit {
     margin-left: 130px; }
   .content img {
-	border-radius: 5px;
+	border-radius: 8px;
 	padding: 0px; }
 
 #video {
