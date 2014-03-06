@@ -9,6 +9,25 @@ body {
 a {
   color: #227ce8; }
 
+ul {
+  margin: 0;
+  padding: 0; }
+li {
+  line-height: 100%;
+  font-size: 14px;
+  list-style: none;
+  padding: 5px 3px;
+  margin: 0px;
+  color: #777777; }
+li img {
+  float: left;
+  border: 0px;
+  max-height: 150px; }
+li a {
+  text-decoration: none; }
+li a:hover {
+  text-decoration: underline; }
+
 .sidebar {
   position: fixed;
   left: 15px;

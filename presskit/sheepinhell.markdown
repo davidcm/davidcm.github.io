@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sheep in Hell Press kit
-category: post
 ---
 
 Contents
