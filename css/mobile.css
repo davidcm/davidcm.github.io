@@ -16,9 +16,8 @@
   .sidebar .sections {
     font-size: 17px;
     margin: 0;
-    padding: 3px; }
-    .sidebar .sections a {
-      margin: 0 10px 0 0; }
+    padding: 3px;
+    float: left; }
     .sidebar .sections .projects {
       float: right;
       text-align: right; }
