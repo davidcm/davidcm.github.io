@@ -119,4 +119,8 @@ Links
 Contact
 -------
 
-<http://david.cm/support>
+<ul class="listing">
+  <li><a href="http://david.cm/support">Support</a></li>
+  <li><a href="https://twitter.com/tmdchi">Twitter of David Corominas</a></li>
+  <li><a href="https://twitter.com/rtypex">Twitter of Ángel García</a></li>
+</ul>
