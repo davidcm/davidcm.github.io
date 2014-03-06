@@ -29,8 +29,9 @@ Factsheet
   <li>Musicians: Carles Gumí, Pau Damià Riera</li>
   <li>Based in: Spain</li>
 </ul>
+
 <ul class="listing">
-  <li>Release date: January 7th, 2014</ul>
+  <li>Release date: January 7th, 2014</li>
   <li>Platforms: iOS, Android</li>
   <li>Regular price: $0.99, 0.89€</li>
   <li>Website 1: <a href="http://david.cm/sheepinhell">david.cm/sheepinhell</a></li>
