@@ -4,9 +4,7 @@
   margin: 0;
   padding: 5px; }
   .sidebar .name {
-    font-size: 36px;
-    position: fixed;
-    left: 5px; }
+    font-size: 36px; }
   .sidebar img {
   	float: left;
   	width: 60px;
@@ -23,7 +21,7 @@
     .sidebar .sections .projects {
       position: fixed;
       right: 5px;
-      top: 50px;
+      top: 5px;
       text-align: right; }
 
 .content {
