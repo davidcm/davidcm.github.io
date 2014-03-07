@@ -24,7 +24,7 @@ Factsheet
 ---------
 
 <p>
-	Team:
+	<h3>Team</h3>
 	<ul class="listing">
 	  <li>Artist: Ángel García</li>
 	  <li>Programmer: David Corominas</li>
@@ -34,7 +34,7 @@ Factsheet
 </p>
 
 <p>
-	Game info:
+	<h3>Game info</h3>
 	<ul class="listing">
 	  <li>Release date: January 7th, 2014</li>
 	  <li>Platforms: iOS, Android</li>
@@ -100,8 +100,8 @@ Logo, banner and icon
 
 Download all <a href="sheepinhell_contents/logos.zip"><i class="icon icon-download-alt"></i></a>
 
-<section class="gallery">
 <a href="sheepinhell_contents/logo.png"><img src="sheepinhell_contents/logo.png"></a>
+<section class="gallery">
 <a href="sheepinhell_contents/banner.png"><img src="sheepinhell_contents/banner.png"></a>
 <a href="sheepinhell_contents/icon.png"><img src="sheepinhell_contents/icon.png"></a>
 </section>
