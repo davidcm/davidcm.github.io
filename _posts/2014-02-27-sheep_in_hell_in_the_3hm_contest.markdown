@@ -2,6 +2,7 @@
 layout: post
 title: Sheep in Hell in the 3HM contest
 category: posts
+comments: true
 ---
 
 Three Headed Monkey (3HM) Awards is a contest driven by the [UPC videogames](http://upcvideogames.com) head, Jesús Alonso. As its web site states:

@@ -2,6 +2,7 @@
 layout: post
 title: Sheep in Hell has been published!
 category: posts
+comments: true
 ---
 
 It's been a hard but fun path thru this development, from the idea, the first concepts and the final testings. Certainly, to be a 3-day jam project, it's taken too long to complete, but we never said we were in a hurry! And with enough time and love, this version 1.0 is a fairly polished one.
