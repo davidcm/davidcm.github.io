@@ -222,11 +222,14 @@ a {
   .content .submit {
     margin-left: 130px; }
 
-  .gallery, .minigallery {
+  .gallery {
   	text-align: center;
   	vertical-align: middle; }
     .gallery img {
       max-width: 45%; }
+  .minigallery {
+  	text-align: center;
+  	vertical-align: middle; }
     .minigallery img {
       max-width: 18%; }
 
