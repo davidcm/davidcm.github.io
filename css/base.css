@@ -222,19 +222,20 @@ a {
     margin-left: 130px; }
 
   .gallery {
-  	text-align: center; }
+  	text-align: center;
+  	vertical-align: middle; }
     .gallery img {
-      max-width: 45%;
-      vertical-align: middle; }
-      .gallery .mini img {
-        max-width: 18%; }
-	
+      max-width: 45%; }
+    .minigallery img {
+      max-width: 18%; }
+
 #video {
 	border-radius: 8px;
 	padding: 0px;
     border: 0px;
     width: 600px;
-    height: 330px; }
+    height: 330px;
+    text-align: center; }
 #disqus_thread {
 	width: 500px; }
 #dsq-content #dsq-comments .dsq-comment {
