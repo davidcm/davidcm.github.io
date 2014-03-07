@@ -10,5 +10,7 @@ layout: layout
 		{{ page.date | date: "%B %e, %Y" }}
 	</section>
 	{{ content }}
-	{% include comments.html %}
+	{% if page.nocomments == false %}
+		{% include comments.html %}
+	{% endif %}
 </section>
