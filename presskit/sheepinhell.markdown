@@ -71,14 +71,22 @@ Features
 History
 -------
 
-This game was originally planned by Ángel García and me as a doable project for a home made game jam that we did on March 25th, 2013. The goal was to, at least, try to finish it. But if we didn't, it would have been ok anyway. No pressures. My job consisted in programming: procedurally generate rooms, track challenges, create enemy behaviours, fine tune character controls... It lasted 3 days and was difficult and intensive, but in the end we had a playable thing, something that could be called a game. We were quite proud of ourselves, but the project needed some more love and adjustments.
+This game was originally planned by Ángel and David as a doable project for a Homemade Game Jam that they did on March 25th, 2013. The goal was to, at least, try to finish it. But if they didn't success, it would have been ok anyway. No pressures.
+
+Ángel's job consisted in creating every graphical asset: from concept art to 3D objects and animations, GUI, textures...
+
+David's job consisted in programming: procedurally generate rooms, track challenges, create enemy behaviours, fine tune character controls...
+
+The jam lasted 3 days and was difficult and intensive, but in the end they had a playable thing, something that could be called a game.
+
+After a well-deserved rest, they retook it and started working on it in their spare time. As they approached the beta phase, they had the honor of working with Atic2a, an independent two-man music and sfx studio. They made a splendid work. Many bugs were fixed, new features were added, last-minute art was made and some playtest was done. Suddenly a Gold Master arrived, just in time for the new year. So they packed everything and distributed it.
 
 <a id="videos"></a>
 Videos
 ------
 
+<h3>Trailer for 3HM Awards</h3>
 <iframe id="video" frameborder="0" src="//www.youtube-nocookie.com/embed/kSNr3nP3Iy8?rel=0" allowfullscreen></iframe>
-Trailer for 3HM Awards
 
 <a id="images"></a>
 Images
@@ -91,8 +99,8 @@ Download all <a href="sheepinhell_contents/screenshots.zip"><i class="icon icon-
 </section>
 
 <a id="logos"></a>
-Logo, banner and icon
----------------------
+Logo, banner, icon
+------------------
 
 Download all <a href="sheepinhell_contents/logos.zip"><i class="icon icon-download-alt"></i></a>
 
