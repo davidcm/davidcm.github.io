@@ -221,14 +221,13 @@ a {
   .content .submit {
     margin-left: 130px; }
 
-  .gallery img {
-	max-width: 45%;
-	vertical-align: middle;
-	text-align: center; }
-  .minigallery img {
-	max-width: 18%;
-	vertical-align: middle;
-	text-align: center; }
+  .gallery {
+  	text-align: center; }
+    .gallery img {
+      max-width: 45%;
+      vertical-align: middle; }
+      .gallery .mini img {
+        max-width: 18%; }
 	
 #video {
 	border-radius: 8px;

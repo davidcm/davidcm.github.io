@@ -13,7 +13,7 @@ Contents
   <li><i class="icon icon-chevron-right"></i><a href="#history">History</a></li>
   <li><i class="icon icon-chevron-right"></i><a href="#videos">Videos</a></li>
   <li><i class="icon icon-chevron-right"></i><a href="#images">Images</a></li>
-  <li><i class="icon icon-chevron-right"></i><a href="#logos">Logo, banner, icon</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#logos">Icon, logo, banner</a></li>
   <li><i class="icon icon-chevron-right"></i><a href="#aboutus">About us</a></li>
   <li><i class="icon icon-chevron-right"></i><a href="#links">Links</a></li>
   <li><i class="icon icon-chevron-right"></i><a href="#contact">Contact</a></li>
@@ -97,20 +97,20 @@ Download all <a href="sheepinhell_contents/screenshots.zip"><i class="icon icon-
 <section class="gallery">
 {% for i in (1..4) %}<a href="sheepinhell_contents/screenshot{{ i }}.png"><img src="sheepinhell_contents/screenshot{{ i }}.png"></a>{% endfor %}
 </section>
-<section class="minigallery">
+<section class="gallery mini">
 {% for i in (5..9) %}<a href="sheepinhell_contents/screenshot{{ i }}.png"><img src="sheepinhell_contents/screenshot{{ i }}.png"></a>{% endfor %}
 </section>
 
 <a id="logos"></a>
-Logo, banner, icon
+Icon, logo, banner
 ------------------
 
 Download all <a href="sheepinhell_contents/logos.zip"><i class="icon icon-download-alt"></i></a>
 
-<a href="sheepinhell_contents/banner.png"><img src="sheepinhell_contents/banner.png"></a>
 <section class="gallery">
 <a href="sheepinhell_contents/icon.png"><img src="sheepinhell_contents/icon.png"></a>
 <a href="sheepinhell_contents/logo.png"><img src="sheepinhell_contents/logo.png"></a>
+<a href="sheepinhell_contents/banner.png"><img src="sheepinhell_contents/banner.png"></a>
 </section>
 
 <a id="aboutus"></a>
