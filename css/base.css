@@ -223,13 +223,12 @@ a {
     margin-left: 130px; }
 
   .gallery, .minigallery {
-  	text-align: center;
-  	vertical-align: middle; }
+  	text-align: center; }
     .gallery img {
-      display: block;
+      vertical-align: middle;
       max-width: 45%; }
     .minigallery img {
-      display: block;
+      vertical-align: middle;
       max-width: 18%; }
 
 #video {
