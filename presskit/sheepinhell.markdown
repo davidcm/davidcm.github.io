@@ -26,6 +26,7 @@ Factsheet
 <p>
 	<h3>Team</h3>
 	<ul class="listing">
+	  <li>Designers: Ángel García, David Corominas</li>
 	  <li>Artist: Ángel García</li>
 	  <li>Programmer: David Corominas</li>
 	  <li>Musicians: Carles Gumí, Pau Damià Riera</li>
@@ -38,7 +39,7 @@ Factsheet
 	<ul class="listing">
 	  <li>Release date: January 7th, 2014</li>
 	  <li>Platforms: iOS, Android</li>
-	  <li>Regular price: $0.99, 0.89€</li>
+	  <li>Regular price: $0.99</li>
 	  <li>Website 1: <a href="http://david.cm/sheepinhell">david.cm/sheepinhell</a></li>
 	  <li>Website 2: <a href="http://rtypex.com/juegos/sheep-in-hell/">rtypex.com/juegos/sheep-in-hell</a></li>
 	</ul>
