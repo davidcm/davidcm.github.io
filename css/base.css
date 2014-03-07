@@ -223,7 +223,12 @@ a {
 
   .gallery img {
 	max-width: 45%;
-	vertical-align: middle; }
+	vertical-align: middle;
+	text-align: center; }
+  .minigallery img {
+	max-width: 15%;
+	vertical-align: middle;
+	text-align: center; }
 	
 #video {
 	border-radius: 8px;
