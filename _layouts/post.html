@@ -1,6 +1,6 @@
 ---
 layout: layout
-nocomments: false
+comments: true
 ---
 
 <section class="content">
@@ -11,7 +11,7 @@ nocomments: false
 		{{ page.date | date: "%B %e, %Y" }}
 	</section>
 	{{ content }}
-	{% if page.nocomments == false %}
+	{% if page.comments? %}
 		{% include comments.html %}
 	{% endif %}
 </section>
