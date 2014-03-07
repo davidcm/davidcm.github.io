@@ -226,6 +226,9 @@ a {
   	vertical-align: middle; }
     .gallery img {
       max-width: 45%; }
+  .minigallery {
+  	text-align: center;
+  	vertical-align: middle; }
     .minigallery img {
       max-width: 18%; }
 
@@ -235,7 +238,7 @@ a {
     border: 0px;
     width: 600px;
     height: 330px;
-    text-align: center; }
+    align: center; }
 #disqus_thread {
 	width: 500px; }
 #dsq-content #dsq-comments .dsq-comment {
