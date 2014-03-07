@@ -7,16 +7,16 @@ Contents
 --------
 
 <ul class="listing">
-  <li><i class="icon  icon-chevron-right"></i><a href="#factsheet">Factsheet</a></li>
-  <li><i class="icon  icon-chevron-right"></i><a href="#description">Description</a></li>
-  <li><i class="icon  icon-chevron-right"></i><a href="#features">Features</a></li>
-  <li><i class="icon  icon-chevron-right"></i><a href="#history">History</a></li>
-  <li><i class="icon  icon-chevron-right"></i><a href="#videos">Videos</a></li>
-  <li><i class="icon  icon-chevron-right"></i><a href="#images">Images</a></li>
-  <li><i class="icon  icon-chevron-right"></i><a href="#logos">Logo, banner, icon</a></li>
-  <li><i class="icon  icon-chevron-right"></i><a href="#aboutus">About us</a></li>
-  <li><i class="icon  icon-chevron-right"></i><a href="#links">Links</a></li>
-  <li><i class="icon  icon-chevron-right"></i><a href="#contact">Contact</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#factsheet">Factsheet</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#description">Description</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#features">Features</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#history">History</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#videos">Videos</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#images">Images</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#logos">Logo, banner, icon</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#aboutus">About us</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#links">Links</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#contact">Contact</a></li>
 </ul>
 
 <a id="factsheet"></a>
@@ -90,7 +90,7 @@ Download all <a href="sheepinhell_contents/screenshots.zip"><i class="icon icon-
 {% for i in (1..9) %}<a href="sheepinhell_contents/screenshot{{ i }}.png"><img src="sheepinhell_contents/screenshot{{ i }}.png"></a>{% endfor %}
 </section>
 
-<a id="logobannericon"></a>
+<a id="logos"></a>
 Logo, banner and icon
 ---------------------
 
@@ -129,7 +129,12 @@ Contact
 
 <ul class="listing">
   <li><a href="http://david.cm/support">Support</a></li>
-  <li><a href="https://twitter.com/tmdchi">Twitter of David Corominas</a> (programmer)</li>
-  <li><a href="https://twitter.com/rtypex">Twitter of Ángel García</a> (artist)</li>
-  <li><a href="https://twitter.com/atic2a">Twitter of Atic2a</a> (musicians)</li>
+</ul>
+
+<h3>Social</h3>
+
+<ul class="listing">
+  <li><i class="icon icon-twitter"></i><a href="https://twitter.com/rtypex">Twitter of Ángel García</a> (artist)</li>
+  <li><i class="icon icon-twitter"></i><a href="https://twitter.com/tmdchi">Twitter of David Corominas</a> (programmer)</li>
+  <li><i class="icon icon-twitter"></i><a href="https://twitter.com/atic2a">Twitter of Atic2a</a> (musicians)</li>
 </ul>
