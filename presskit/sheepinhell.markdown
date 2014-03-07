@@ -8,13 +8,13 @@ Contents
 
 <ul class="listing">
   <li><i class="icon  icon-chevron-right"></i><a href="#factsheet">Factsheet</a></li>
-  <li><i class="icon  icon-chevron-right"></i><a href="#aboutus">About us</a></li>
   <li><i class="icon  icon-chevron-right"></i><a href="#description">Description</a></li>
   <li><i class="icon  icon-chevron-right"></i><a href="#features">Features</a></li>
   <li><i class="icon  icon-chevron-right"></i><a href="#history">History</a></li>
   <li><i class="icon  icon-chevron-right"></i><a href="#videos">Videos</a></li>
   <li><i class="icon  icon-chevron-right"></i><a href="#images">Images</a></li>
   <li><i class="icon  icon-chevron-right"></i><a href="#logos">Logo, banner, icon</a></li>
+  <li><i class="icon  icon-chevron-right"></i><a href="#aboutus">About us</a></li>
   <li><i class="icon  icon-chevron-right"></i><a href="#links">Links</a></li>
   <li><i class="icon  icon-chevron-right"></i><a href="#contact">Contact</a></li>
 </ul>
@@ -43,10 +43,6 @@ Factsheet
 	  <li>Website 2: <a href="http://rtypex.com/juegos/sheep-in-hell/">rtypex.com/juegos/sheep-in-hell</a></li>
 	</ul>
 </p>
-
-<a id="factsheet"></a>
-About us
---------
 
 <a id="description"></a>
 Description
@@ -100,21 +96,31 @@ Logo, banner and icon
 
 Download all <a href="sheepinhell_contents/logos.zip"><i class="icon icon-download-alt"></i></a>
 
-<a href="sheepinhell_contents/logo.png"><img src="sheepinhell_contents/logo.png"></a>
-<section class="gallery">
 <a href="sheepinhell_contents/banner.png"><img src="sheepinhell_contents/banner.png"></a>
+<section class="gallery">
 <a href="sheepinhell_contents/icon.png"><img src="sheepinhell_contents/icon.png"></a>
+<a href="sheepinhell_contents/logo.png"><img src="sheepinhell_contents/logo.png"></a>
 </section>
+
+<a id="aboutus"></a>
+About us
+--------
+
+Ángel studied at a 3D design school in Barcelona, where David worked as a tutor for game development. There they worked together in Ángel's final project titled Book Trip. Seeing Ángel's abilities in creating all kind of 3D stuff, and how fast he was, David wanted him to be in a production team for an internal project. During all this time, there were talks about cooperating in our own projects, out of school.
+
+The first chance of working with complete freedom was at Global Game Jam 2012, where we (along with three more people) created a beautiful game, titled Immaturity.
+
+After one year, we met again to celebrate a Homemade Game Jam. That was the culprit of what we're presenting now: Sheep in Hell. It was a 3 days project with a 1 year perfecting process. It was within this last process when we worked with Atic2a, a two man team specialized in videogames music and effects creation.
 
 <a id="links"></a>
 Links
 -----
 
 <ul class="listing">
-  <li><i class="icon icon-external-link"></i>Artist: <a href="http://www.rtypex.com">rtypex.com</a></li>
-  <li><i class="icon icon-external-link"></i>Programmer: <a href="http://www.david.cm">david.cm</a></li>
-  <li><i class="icon icon-external-link"></i>Musicians: <a href="http://www.atic2a.com">atic2a.com</a></li>
-  <li><i class="icon icon-external-link"></i><a href="https://itunes.apple.com/us/app/sheep-in-hell/id788371896?mt=8">Apple AppStore</a></li>
+  <li><i class="icon icon-external-link"></i>Artist website: <a href="http://www.rtypex.com">rtypex.com</a></li>
+  <li><i class="icon icon-external-link"></i>Programmer website: <a href="http://www.david.cm">david.cm</a></li>
+  <li><i class="icon icon-external-link"></i>Musicians website: <a href="http://www.atic2a.com">atic2a.com</a></li>
+  <li><i class="icon icon-external-link"></i>Purchase: <a href="https://itunes.apple.com/us/app/sheep-in-hell/id788371896?mt=8">Apple AppStore</a></li>
 </ul>
 
 <a id="contact"></a>
@@ -123,6 +129,7 @@ Contact
 
 <ul class="listing">
   <li><a href="http://david.cm/support">Support</a></li>
-  <li><a href="https://twitter.com/tmdchi">Twitter of David Corominas</a></li>
-  <li><a href="https://twitter.com/rtypex">Twitter of Ángel García</a></li>
+  <li><a href="https://twitter.com/tmdchi">Twitter of David Corominas</a> (programmer)</li>
+  <li><a href="https://twitter.com/rtypex">Twitter of Ángel García</a> (artist)</li>
+  <li><a href="https://twitter.com/atic2a">Twitter of Atic2a</a> (musicians)</li>
 </ul>
