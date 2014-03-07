@@ -11,7 +11,7 @@ comments: true
 		{{ page.date | date: "%B %e, %Y" }}
 	</section>
 	{{ content }}
-	{% if page.comments? %}
+	{% if comments? %}
 		{% include comments.html %}
 	{% endif %}
 </section>
