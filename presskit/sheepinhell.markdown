@@ -87,9 +87,9 @@ After a well-deserved rest, they retook it and started working on it in their sp
 Videos
 ------
 
-<iframe id="video" frameborder="0" src="//www.youtube-nocookie.com/embed/6wIvIz8m40s?rel=0" allowfullscreen></iframe>
+Share video link <a href="http://youtu.be/6wIvIz8m40s"><i class="icon icon-external-link"></i></a>
 
-Youtube share link <a href="http://youtu.be/6wIvIz8m40s"><i class="icon icon-external-link"></i></a>
+<iframe id="video" frameborder="0" src="//www.youtube-nocookie.com/embed/6wIvIz8m40s?rel=0" allowfullscreen></iframe>
 
 <a id="images"></a>
 Images
