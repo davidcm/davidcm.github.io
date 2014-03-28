@@ -87,8 +87,8 @@ After a well-deserved rest, they retook it and started working on it in their sp
 Videos
 ------
 
-<h3>Trailer for 3HM Awards</h3>
-<iframe id="video" frameborder="0" src="//www.youtube-nocookie.com/embed/kSNr3nP3Iy8?rel=0" allowfullscreen></iframe>
+<h3>Official Trailer <a href="http://youtu.be/6wIvIz8m40s"><i class="icon-external-link"></i></a></h3>
+<iframe id="video" frameborder="0" src="//www.youtube-nocookie.com/embed/6wIvIz8m40s?rel=0" allowfullscreen></iframe>
 
 <a id="images"></a>
 Images
