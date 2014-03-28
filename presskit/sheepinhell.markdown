@@ -87,9 +87,9 @@ After a well-deserved rest, they retook it and started working on it in their sp
 Videos
 ------
 
-<h3>Official Trailer</h3>
-Youtube link <a href="http://youtu.be/6wIvIz8m40s"><i class="icon-youtube-sign"></i></a>
 <iframe id="video" frameborder="0" src="//www.youtube-nocookie.com/embed/6wIvIz8m40s?rel=0" allowfullscreen></iframe>
+
+Youtube share link <a href="http://youtu.be/6wIvIz8m40s"><i class="icon icon-external-link"></i></a>
 
 <a id="images"></a>
 Images
