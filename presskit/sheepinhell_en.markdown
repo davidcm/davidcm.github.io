@@ -124,7 +124,7 @@ About the team
 
 The first chance of working with complete freedom was at Global Game Jam 2012, where they (along with three more people) created a beautiful game, titled Immaturity.
 
-After one year, they met again to celebrate a Homemade Game Jam. That was the culprit of what they're presenting now: Sheep in Hell. It was a 3 days project with a 1 year perfecting process. It was within this last process when they worked with Atic2a, a two man team specialized in videogames music and effects creation.
+After one year, they met again to celebrate a Homemade Game Jam. That was the culprit of what they're presenting now: Sheep in Hell. It was a three days project, an attack of hiccups and one year of perfecting process. It was within this last process when they worked with Atic2a, a two man team specialized in videogames music and effects creation.
 
 <a id="links"></a>
 Links
