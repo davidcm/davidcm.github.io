@@ -42,7 +42,7 @@ Factsheet
 	  <li>Release date: January 7th, 2014</li>
 	  <li>Platforms: iOS, Android</li>
 	  <li>Regular price: $0.99</li>
-	  <li>Official website: <a href="http://david.cm/landing/sheepinhell">Sheep in Hell - A videogame by Hiccup Games</a></li>
+	  <li>Official website: <a href="http://david.cm/landing/sheepinhell">Sheep in Hell - A videogame by Hiccup Games!</a></li>
 	</ul>
 </p>
 
@@ -120,11 +120,11 @@ Download all <a href="sheepinhell_contents/logos.zip"><i class="icon icon-downlo
 About the team
 --------------
 
-Ángel studied at a 3D design school in Barcelona, where David worked as a tutor for game development. There they worked together in Ángel's final project titled Book Trip. Seeing Ángel's abilities in creating all kind of 3D stuff, and how fast he was, David wanted him to be in a production team for an internal project. During all this time, there were talks about cooperating in their own projects, out of school.
+Ángel studied at a 3D design school in Barcelona, where David worked as a tutor for game development. There they worked together in Ángel's final project titled <a href="http://rtypex.com/juegos/booktrip/">Book Trip</a>. Seeing Ángel's abilities in creating all kind of 3D stuff, and how fast he was, David wanted him to be in a production team for an internal project. During all this time there were talks about cooperating in their own projects out of school.
 
-The first chance of working with complete freedom was at Global Game Jam 2012, where they (along with three more people) created a beautiful game, titled Immaturity.
+The first chance of working with complete freedom was at Global Game Jam 2012, where they (along with three more people) created a beautiful game, titled <a href="http://archive.globalgamejam.org/2012/immaturity">Immaturity</a>.
 
-After one year, they met again to celebrate a Homemade Game Jam. That was the culprit of what they're presenting now: Sheep in Hell. It was a three days project, an attack of hiccups and one year of perfecting process. It was within this last process when they worked with Atic2a, a two man team specialized in videogames music and effects creation.
+After one year, they met again to celebrate a Homemade Game Jam. That was the culprit of what they're presenting now: <b>Sheep in Hell</b>. It was a three days project, an attack of hiccups and one year of perfecting process. It was within this last process when they worked with Atic2a, a two man team specialized in videogames music and effects creation.
 
 <a id="links"></a>
 Links

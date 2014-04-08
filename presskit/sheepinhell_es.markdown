@@ -42,7 +42,7 @@ Factsheet
 	  <li>Fecha de salida: 7 de enero de 2014</li>
 	  <li>Plataformas: iOS, Android</li>
 	  <li>Precio habitual: 0.89€</li>
-	  <li>Web oficial: <a href="http://david.cm/landing/sheepinhell">Sheep in Hell - A videogame by Hiccup Games</a></li>
+	  <li>Web oficial: <a href="http://david.cm/landing/sheepinhell">Sheep in Hell - Un videojuego por Hiccup Games!</a></li>
 	</ul>
 </p>
 
@@ -120,11 +120,11 @@ Descargar todo <a href="sheepinhell_contents/logos.zip"><i class="icon icon-down
 Acerca del equipo
 -----------------
 
-Ángel estudió en una escuela de diseño 3D de Barcelona, donde David trabajaba como tutor para el desarrollo de videojuegos. Allí trabajaron juntos en el proyecto final de Ángel, llamado Book Trip. Vistas las habilidades de Ángel para crear todo tipo de contenido 3D, y lo rápido que era, David quiso que formara parte del equipo de producción de un proyecto interno. Durante todo ese tiempo, hablaban de, algún día, cooperar en sus propios proyectos, fuera de la escuela.
+Ángel estudió en una escuela de diseño 3D de Barcelona, donde David trabajaba como tutor para el desarrollo de videojuegos. Allí trabajaron juntos en el proyecto final de Ángel, llamado <a href="http://rtypex.com/juegos/booktrip/">Book Trip</a>. Vistas las habilidades de Ángel para crear todo tipo de contenido 3D, y lo rápido que era, David quiso que formara parte del equipo de producción de un proyecto interno. Durante todo ese tiempo hablaban de, algún día, cooperar en sus propios proyectos fuera de la escuela.
 
-La primera oportunidad de trabajar con total libertad fue en la Global Game Jam de 2012, donde (junto a otras tres personas) crearon un bonito juego llamado Immaturity.
+La primera oportunidad de trabajar con total libertad fue en la Global Game Jam de 2012, donde (junto a otras tres personas) crearon un bonito juego llamado <a href="http://archive.globalgamejam.org/2012/immaturity">Immaturity</a>.
 
-Tras un año, se encontraron otra vez para celebrar una Game Jam casera. Ésta fue la culpable de lo que ahora presentan: Sheep in Hell. Fue un proyecto de tres días, un ataque de hipo y un año de perfeccionamiento. Y fue durante este último proceso cuando trabajaron junto a Atic2a, un equipo de dos hombres especializado en la creación de música para videojuegos y efectos sonoros.
+Tras un año, se encontraron otra vez para celebrar una Game Jam casera. Ésta fue la culpable de lo que ahora presentan: <b>Sheep in Hell</b>. Fue un proyecto de tres días, un ataque de hipo y un año de perfeccionamiento. Y fue durante este último proceso cuando trabajaron junto a Atic2a, un equipo de dos hombres especializado en la creación de música para videojuegos y efectos sonoros.
 
 <a id="links"></a>
 Enlaces
