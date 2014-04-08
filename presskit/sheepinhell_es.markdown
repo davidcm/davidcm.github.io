@@ -1,23 +1,23 @@
 ---
 layout: post
-title: Sheep in Hell Press kit
+title: Sheep in Hell - Kit de prensa
 comments: false
 ---
 
-Contents
---------
+Contenido
+---------
 
 <ul class="listing">
-  <li><i class="icon icon-chevron-right"></i><a href="#factsheet">Factsheet</a></li>
-  <li><i class="icon icon-chevron-right"></i><a href="#description">Description</a></li>
-  <li><i class="icon icon-chevron-right"></i><a href="#features">Features</a></li>
-  <li><i class="icon icon-chevron-right"></i><a href="#history">History</a></li>
-  <li><i class="icon icon-chevron-right"></i><a href="#videos">Videos</a></li>
-  <li><i class="icon icon-chevron-right"></i><a href="#images">Images</a></li>
-  <li><i class="icon icon-chevron-right"></i><a href="#logos">Icon, logo, banner</a></li>
-  <li><i class="icon icon-chevron-right"></i><a href="#aboutus">About us</a></li>
-  <li><i class="icon icon-chevron-right"></i><a href="#links">Links</a></li>
-  <li><i class="icon icon-chevron-right"></i><a href="#contact">Contact</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#factsheet">Datos básicos</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#description">Descripción</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#features">Características</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#history">Historia</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#videos">Vídeos</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#images">Imágenes</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#logos">Icono, logo, banner</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#aboutus">Sobre nosotros</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#links">Enlaces</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#contact">Contacto</a></li>
 </ul>
 
 <a id="factsheet"></a>
@@ -25,29 +25,29 @@ Factsheet
 ---------
 
 <p>
-	<h3>Team</h3>
+	<h3>Equipo</h3>
 	<ul class="listing">
-	  <li>Designers: Ángel García, David Corominas</li>
-	  <li>Artist: Ángel García</li>
-	  <li>Programmer: David Corominas</li>
-	  <li>Musicians: Carles Gumí, Pau Damià Riera</li>
-	  <li>Based in: Spain</li>
+	  <li>Nombre: Hiccup Games</li>
+	  <li>Diseñadores: Ángel García, David Corominas</li>
+	  <li>Artista: Ángel García</li>
+	  <li>Programador: David Corominas</li>
+	  <li>Músicos: Atic2a (Carles Gumí y Pau Damià Riera)</li>
+	  <li>Ubicados en: España</li>
 	</ul>
 </p>
 
 <p>
-	<h3>Game info</h3>
+	<h3>Información del juego</h3>
 	<ul class="listing">
-	  <li>Release date: January 7th, 2014</li>
-	  <li>Platforms: iOS, Android</li>
-	  <li>Regular price: $0.99</li>
-	  <li>Website 1: <a href="http://david.cm/sheepinhell">david.cm/sheepinhell</a></li>
-	  <li>Website 2: <a href="http://rtypex.com/juegos/sheep-in-hell/">rtypex.com/juegos/sheep-in-hell</a></li>
+	  <li>Fecha de salida: 7 de enero de 2014</li>
+	  <li>Plataformas: iOS, Android</li>
+	  <li>Precio habitual: 0.89€</li>
+	  <li>Web oficial: <a href="http://david.cm/landing/sheepinhell">Sheep in Hell - A videogame by Hiccup Games</a></li>
 	</ul>
 </p>
 
 <a id="description"></a>
-Description
+Descripción
 -----------
 
 You're a wolf and you've been bad. That's why you've been put in the deepness of a hell plagued with your most hated enemies: the sheep! But they're not normal sheep. No... They're possessed demonic sheep and won't hesitate to try to kill you!
@@ -136,6 +136,7 @@ Links
   <li><i class="icon icon-external-link"></i>Programmer website: <a href="http://www.david.cm">david.cm</a></li>
   <li><i class="icon icon-external-link"></i>Musicians website: <a href="http://www.atic2a.com">atic2a.com</a></li>
   <li><i class="icon icon-external-link"></i>Purchase: <a href="https://itunes.apple.com/us/app/sheep-in-hell/id788371896?mt=8">Apple AppStore</a></li>
+  <li><i class="icon icon-external-link"></i>Purchase: <a href="https://play.google.com/store/apps/details?id=cm.david.sheepinhell">Google Play</a></li>
 </ul>
 
 <a id="contact"></a>
