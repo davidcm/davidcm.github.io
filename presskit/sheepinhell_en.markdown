@@ -15,7 +15,7 @@ Contents
   <li><i class="icon icon-chevron-right"></i><a href="#videos">Videos</a></li>
   <li><i class="icon icon-chevron-right"></i><a href="#images">Images</a></li>
   <li><i class="icon icon-chevron-right"></i><a href="#logos">Icon, logo, banner</a></li>
-  <li><i class="icon icon-chevron-right"></i><a href="#aboutus">About us</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#aboutus">About the team</a></li>
   <li><i class="icon icon-chevron-right"></i><a href="#links">Links</a></li>
   <li><i class="icon icon-chevron-right"></i><a href="#contact">Contact</a></li>
 </ul>
@@ -117,14 +117,14 @@ Download all <a href="sheepinhell_contents/logos.zip"><i class="icon icon-downlo
 </section>
 
 <a id="aboutus"></a>
-About us
---------
+About the team
+--------------
 
-Ángel studied at a 3D design school in Barcelona, where David worked as a tutor for game development. There they worked together in Ángel's final project titled Book Trip. Seeing Ángel's abilities in creating all kind of 3D stuff, and how fast he was, David wanted him to be in a production team for an internal project. During all this time, there were talks about cooperating in our own projects, out of school.
+Ángel studied at a 3D design school in Barcelona, where David worked as a tutor for game development. There they worked together in Ángel's final project titled Book Trip. Seeing Ángel's abilities in creating all kind of 3D stuff, and how fast he was, David wanted him to be in a production team for an internal project. During all this time, there were talks about cooperating in their own projects, out of school.
 
-The first chance of working with complete freedom was at Global Game Jam 2012, where we (along with three more people) created a beautiful game, titled Immaturity.
+The first chance of working with complete freedom was at Global Game Jam 2012, where they (along with three more people) created a beautiful game, titled Immaturity.
 
-After one year, we met again to celebrate a Homemade Game Jam. That was the culprit of what we're presenting now: Sheep in Hell. It was a 3 days project with a 1 year perfecting process. It was within this last process when we worked with Atic2a, a two man team specialized in videogames music and effects creation.
+After one year, they met again to celebrate a Homemade Game Jam. That was the culprit of what they're presenting now: Sheep in Hell. It was a 3 days project with a 1 year perfecting process. It was within this last process when they worked with Atic2a, a two man team specialized in videogames music and effects creation.
 
 <a id="links"></a>
 Links

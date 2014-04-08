@@ -15,7 +15,7 @@ Contenido
   <li><i class="icon icon-chevron-right"></i><a href="#videos">Vídeos</a></li>
   <li><i class="icon icon-chevron-right"></i><a href="#images">Imágenes</a></li>
   <li><i class="icon icon-chevron-right"></i><a href="#logos">Icono, logo, banner</a></li>
-  <li><i class="icon icon-chevron-right"></i><a href="#aboutus">Sobre nosotros</a></li>
+  <li><i class="icon icon-chevron-right"></i><a href="#aboutus">Acerca del equipo</a></li>
   <li><i class="icon icon-chevron-right"></i><a href="#links">Enlaces</a></li>
   <li><i class="icon icon-chevron-right"></i><a href="#contact">Contacto</a></li>
 </ul>
@@ -50,52 +50,52 @@ Factsheet
 Descripción
 -----------
 
-You're a wolf and you've been bad. That's why you've been put in the deepness of a hell plagued with your most hated enemies: the sheep! But they're not normal sheep. No... They're possessed demonic sheep and won't hesitate to try to kill you!
+Eres un lobo y has sido malo. Es por eso que se te ha llevado a las profundidades de un infierno plagado de tus más odiados enemigos: ¡las ovejas! Pero no son ovejas normales. No... Son endemoniadas ovejas poseídas ¡y no dudarán en intentar matarte!
 
-So run! Defend yourself! Because, after all, a wolf is by nature a predator, not a prey.
+Por eso corre! Defiéndete! Porque, después de todo, un lobo es un depredador por naturaleza, no una presa.
 
-Break through the dungeons, solve challenges and escape this hell... If you can!
+Ábrete paso por las mazmorras, resuelve retos y escapa de este infierno... ¡Si puedes!
 
 <a id="features"></a>
 Features
 --------
 
 <ul class="listing">
-  <li><i class="icon icon-ok"></i>Intuitive and responsive controls</li>
-  <li><i class="icon icon-ok"></i>Three difficulty levels</li>
-  <li><i class="icon icon-ok"></i>Always different procedural dungeons</li>
-  <li><i class="icon icon-ok"></i>Challenges of increasing difficulty</li>
-  <li><i class="icon icon-ok"></i>Many kinds of enemies to discover</li>
-  <li><i class="icon icon-ok"></i>And more!</li>
+  <li><i class="icon icon-ok"></i>Controles intuitivos y sensibles</li>
+  <li><i class="icon icon-ok"></i>Tres niveles de dificultad</li>
+  <li><i class="icon icon-ok"></i>Mazmorras procedurales siempre diferentes</li>
+  <li><i class="icon icon-ok"></i>Retos de creciente dificultad</li>
+  <li><i class="icon icon-ok"></i>Varios enemigos a descubrir</li>
+  <li><i class="icon icon-ok"></i>¡Y más!</li>
 </ul>
 
 <a id="history"></a>
 History
 -------
 
-This game was originally planned by Ángel and David as a doable project for a Homemade Game Jam that they did on March 25th, 2013. The goal was to, at least, try to finish it. But if they didn't success, it would have been ok anyway. No pressures.
+Este juego fue originalmente planeado por Ángel y David como un proyecto factible para una Game Jam casera que hicieron el 25 de marzo de 2013. El objetivo era, al menos, intentar terminarlo. Pero si no lo conseguían, también estaría bien. Sin presiones.
 
-Ángel's job consisted in creating every graphical asset: from concept art to 3D objects and animations, GUI, textures...
+La tarea de Ángel consistió en crear cada elemento gráfico: desde el arte conceptual hasta los objetos 3D y las animaciones, interfaz gráfica, texturas...
 
-David's job consisted in programming: procedurally generate rooms, track challenges, create enemy behaviours, fine tune character controls...
+La tarea de David consistió en programar: generar proceduralmente las salas, gestionar los retos, crear los comportamientos de los enemigos, ajustar los controles del personaje...
 
-The jam lasted 3 days and was difficult and intensive, but in the end they had a playable thing, something that could be called a game.
+La jam duró 3 días y fue difícil e intensiva, pero al final consiguieron algo jugable, algo a lo que podían llamar un juego.
 
-After a well-deserved rest, they retook it and started working on it in their spare time. As they approached the beta phase, they had the honor of working with Atic2a, an independent two-man music and sfx studio. They made a splendid work. Many bugs were fixed, new features were added, last-minute art was made and some playtest was done. Suddenly a Gold Master arrived, just in time for the new year. So they packed everything and distributed it.
+Después de un merecido descanso, retomaron el proyecto y empezaron a trabajar en él durante sus ratos libres. Aproximándose ya a la fase beta, tuvieron el honor de trabajar con Atic2a, un estudio independiente de música y efectos sonoros formado por dos hombres. Hicieron un trabajo espléndido. Se corrigieron muchos bugs, se añadieron muchas novedades, se creó arte de última hora y se hizo algún que otro test de jugabilidad. De repente una Gold Master apareció, justo a tiempo para año nuevo. Así que lo empaquetaron todo y lo distribuyeron.
 
 <a id="videos"></a>
-Videos
+Vídeos
 ------
 
-Share video link <a href="http://youtu.be/6wIvIz8m40s"><i class="icon icon-external-link"></i></a>
+Enlace para compartir <a href="http://youtu.be/6wIvIz8m40s"><i class="icon icon-external-link"></i></a>
 
 <iframe id="video" frameborder="0" src="//www.youtube-nocookie.com/embed/6wIvIz8m40s?rel=0" allowfullscreen></iframe>
 
 <a id="images"></a>
-Images
-------
+Imágenes
+--------
 
-Download all <a href="sheepinhell_contents/screenshots.zip"><i class="icon icon-download-alt"></i></a>
+Descargar todo <a href="sheepinhell_contents/screenshots.zip"><i class="icon icon-download-alt"></i></a>
 
 <section class="gallery">
 {% for i in (1..4) %}<a href="sheepinhell_contents/screenshot{{ i }}.png"><img src="sheepinhell_contents/screenshot{{ i }}.png"></a>{% endfor %}
@@ -105,10 +105,10 @@ Download all <a href="sheepinhell_contents/screenshots.zip"><i class="icon icon-
 </section>
 
 <a id="logos"></a>
-Icon, logo, banner
-------------------
+Icono, logo, banner
+-------------------
 
-Download all <a href="sheepinhell_contents/logos.zip"><i class="icon icon-download-alt"></i></a>
+Descargar todo <a href="sheepinhell_contents/logos.zip"><i class="icon icon-download-alt"></i></a>
 
 <section class="gallery">
 <a href="sheepinhell_contents/icon.png"><img src="sheepinhell_contents/icon.png"></a>
@@ -117,40 +117,40 @@ Download all <a href="sheepinhell_contents/logos.zip"><i class="icon icon-downlo
 </section>
 
 <a id="aboutus"></a>
-About us
---------
+Acerca del equipo
+-----------------
 
-Ángel studied at a 3D design school in Barcelona, where David worked as a tutor for game development. There they worked together in Ángel's final project titled Book Trip. Seeing Ángel's abilities in creating all kind of 3D stuff, and how fast he was, David wanted him to be in a production team for an internal project. During all this time, there were talks about cooperating in our own projects, out of school.
+Ángel estudió en una escuela de diseño 3D de Barcelona, donde David trabajaba como tutor para el desarrollo de videojuegos. Allí trabajaron juntos en el proyecto final de Ángel, llamado Book Trip. Vistas las habilidades de Ángel para crear todo tipo de contenido 3D, y lo rápido que era, David quiso que formara parte del equipo de producción de un proyecto interno. Durante todo ese tiempo, hablaban de, algún día, cooperar en sus propios proyectos, fuera de la escuela.
 
-The first chance of working with complete freedom was at Global Game Jam 2012, where we (along with three more people) created a beautiful game, titled Immaturity.
+La primera oportunidad de trabajar con total libertad fue en la Global Game Jam de 2012, donde (junto a otras tres personas) crearon un bonito juego llamado Immaturity.
 
-After one year, we met again to celebrate a Homemade Game Jam. That was the culprit of what we're presenting now: Sheep in Hell. It was a 3 days project with a 1 year perfecting process. It was within this last process when we worked with Atic2a, a two man team specialized in videogames music and effects creation.
+Tras un año, se encontraron otra vez para celebrar una Game Jam casera. Ésta fue la culpable de lo que ahora presentan: Sheep in Hell. Fue un proyecto de 3 días y 1 año de perfeccionamiento. Y fue durante este último proceso cuando trabajaron junto a Atic2a, un equipo de dos hombres especializado en la creación de música para videojuegos y efectos sonoros.
 
 <a id="links"></a>
-Links
------
-
-<ul class="listing">
-  <li><i class="icon icon-external-link"></i>Official website: <a href="http://www.david.cm/landing/sheepinhell">Sheep in Hell - A videogame by Hiccup Games!</a></li>
-  <li><i class="icon icon-external-link"></i>Artist website: <a href="http://www.rtypex.com">rtypex.com</a></li>
-  <li><i class="icon icon-external-link"></i>Programmer website: <a href="http://www.david.cm">david.cm</a></li>
-  <li><i class="icon icon-external-link"></i>Musicians website: <a href="http://www.atic2a.com">atic2a.com</a></li>
-  <li><i class="icon icon-external-link"></i>Purchase: <a href="https://itunes.apple.com/us/app/sheep-in-hell/id788371896?mt=8">Apple AppStore</a></li>
-  <li><i class="icon icon-external-link"></i>Purchase: <a href="https://play.google.com/store/apps/details?id=cm.david.sheepinhell">Google Play</a></li>
-</ul>
-
-<a id="contact"></a>
-Contact
+Enlaces
 -------
 
 <ul class="listing">
-  <li><a href="http://david.cm/support">Support</a></li>
+  <li><i class="icon icon-external-link"></i>Web oficial: <a href="http://www.david.cm/landing/sheepinhell">Sheep in Hell - Un videojuego por Hiccup Games!</a></li>
+  <li><i class="icon icon-external-link"></i>Web del artista: <a href="http://www.rtypex.com">rtypex.com</a></li>
+  <li><i class="icon icon-external-link"></i>Web del programador: <a href="http://www.david.cm">david.cm</a></li>
+  <li><i class="icon icon-external-link"></i>Web de los músicos: <a href="http://www.atic2a.com">atic2a.com</a></li>
+  <li><i class="icon icon-external-link"></i>Adquirir: <a href="https://itunes.apple.com/us/app/sheep-in-hell/id788371896?mt=8">Apple AppStore</a></li>
+  <li><i class="icon icon-external-link"></i>Adquirir: <a href="https://play.google.com/store/apps/details?id=cm.david.sheepinhell">Google Play</a></li>
+</ul>
+
+<a id="contact"></a>
+Contacto
+--------
+
+<ul class="listing">
+  <li><a href="http://david.cm/support">Soporte</a></li>
 </ul>
 
 <h3>Social</h3>
 
 <ul class="listing">
-  <li><i class="icon icon-twitter"></i><a href="https://twitter.com/rtypex">Twitter of Ángel García</a> (artist)</li>
-  <li><i class="icon icon-twitter"></i><a href="https://twitter.com/tmdchi">Twitter of David Corominas</a> (programmer)</li>
-  <li><i class="icon icon-twitter"></i><a href="https://twitter.com/atic2a">Twitter of Atic2a</a> (musicians)</li>
+  <li><i class="icon icon-twitter"></i><a href="https://twitter.com/rtypex">Twitter de Ángel García</a> (artista)</li>
+  <li><i class="icon icon-twitter"></i><a href="https://twitter.com/tmdchi">Twitter de David Corominas</a> (programador)</li>
+  <li><i class="icon icon-twitter"></i><a href="https://twitter.com/atic2a">Twitter de Atic2a</a> (músicos)</li>
 </ul>
