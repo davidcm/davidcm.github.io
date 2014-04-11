@@ -8,9 +8,7 @@ layout: layout
 <section class="byline">
 	{{ page.date | date: "%B %e, %Y" }}
 </section>
-<section class="content">
-	{{ content }}
-</section>
+{{ content }}
 {% if page.comments %}
 	{% include comments.html %}
 {% endif %}
