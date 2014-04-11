@@ -3,18 +3,16 @@ layout: layout
 title: "Home"
 ---
 
-<section class="content">
-	{% assign post = site.posts.first %}
-	{% assign content = post.content %}
-	<h1>
-		<a href="{{ post.url }}">{{ post.title }}</a>
-	</h1>
-	<section class="byline">
-		{{ post.date | date: "%B %e, %Y" }}
-	</section>
-	{{ content }}
-	<h1>
-		<a href="{{ post.url }}#comments">Tell me what you think</a>
-	</h1>
-	{% include postslist.html %}
+{% assign post = site.posts.first %}
+{% assign content = post.content %}
+<h1>
+	<a href="{{ post.url }}">{{ post.title }}</a>
+</h1>
+<section class="byline">
+	{{ post.date | date: "%B %e, %Y" }}
 </section>
+{{ content }}
+<h1>
+	<a href="{{ post.url }}#comments">Tell me what you think</a>
+</h1>
+{% include postslist.html %}
