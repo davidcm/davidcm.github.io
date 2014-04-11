@@ -10,7 +10,9 @@ atic2a: <a href='http://www.atic2a.com'>Atic2a</a>
 
 Get it now
 ---
-  
+
+Compatible with iOS and Android devices.
+
 [![Get it on AppStore](images/badge_AppStore.png)](https://itunes.apple.com/es/app/sheep-in-hell/id788371896?mt=8)
 [![Get it on GooglePlay](images/badge_GooglePlay.png)](https://play.google.com/store/apps/details?id=cm.david.sheepinhell)
   
