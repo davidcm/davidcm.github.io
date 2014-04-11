@@ -127,9 +127,6 @@ a {
     background-image: url("/images/hr.png");
     background-repeat: repeat-x;
     margin: 2em 3em; }
-  .content li {
-    margin-bottom: 10px;
-    line-height: 1.4em; }
   .content blockquote {
     font-style: italic;
     font-size: 14px;
@@ -157,14 +154,14 @@ a {
     margin: 5px 0 15px 0;
     font-family: Helvetica, sans-serif;
     line-height: 1.6em; }
-  .content .listing {
-    margin: 0px;
-    padding: 0;
-    font-family: Helvetica, sans-serif; }
-    .content .listing ul {
+    .content ul {
+      margin: 0px;
+      padding: 0;
+      font-family: Helvetica, sans-serif;
       margin: 0;
       padding: 0; }
-    .content .listing li {
+    .content li {
+	  margin-bottom: 10px;
 	  line-height: 100%;
       font-size: 14px;
       list-style: none;
@@ -172,21 +169,21 @@ a {
       margin: 0px;
       color: #777777;
       border-bottom: 1px solid #eee; }
-    .content .listing li span {
+    .content li span {
       vertical-align: -20%;
 	  font-size: 10px; }
-	.content .listing li i {
+	.content li i {
 	  float: left;
 	  margin-right: 8px; }
-	.content .listing li img {
+	.content li img {
 	  float: left;
 	  border: 0px;
 	  width: 32px;
 	  height: 32px;
 	  margin-right: 8px; }
-    .content .listing a {
+    .content a {
       text-decoration: none; }
-    .content .listing a:hover {
+    .content a:hover {
       text-decoration: underline; }
   .content .meta {
     margin: 30px 0;
