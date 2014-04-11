@@ -15,10 +15,10 @@ Our official trailer has also been released.
 
 A brief list of the new features are:
 
-- New enemy: a big, scary and ugly butcher sheep!
-- New enemy: a small but fierce red chicken!
-- Progressing in the game will reveal new appearance of rooms!
-- New dramatic and clearer introductory room!
-- And more exciting stuff, enhancements and fixes!
+- <i class="icon icon-ok"></i>New enemy: a big, scary and ugly butcher sheep!
+- <i class="icon icon-ok"></i>New enemy: a small but fierce red chicken!
+- <i class="icon icon-ok"></i>Progressing in the game will reveal new appearance of rooms!
+- <i class="icon icon-ok"></i>New dramatic and clearer introductory room!
+- <i class="icon icon-ok"></i>And more exciting stuff, enhancements and fixes!
 
 And that's all for today. I hope you'll enjoy the new version!
