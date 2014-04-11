@@ -123,9 +123,9 @@ a {
     max-width: 100%; }
   .content hr {
     border: 0;
-    height: 6px;
+    height: 2px;
     background-image: url("/images/hr.png");
-    background-repeat: repeat-x;
+    //background-repeat: repeat-x;
     margin: 2em 3em; }
   .content blockquote {
     font-style: italic;
