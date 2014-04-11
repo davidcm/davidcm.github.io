@@ -124,8 +124,8 @@ a {
   .content hr {
     border: 0;
     height: 4px;
-    background: url("/images/hr.png") no-repeat;
-    margin: 2em 3em; }
+    background: #fff url("/images/hr.png") no-repeat;
+    //margin: 2em 3em; }
   .content blockquote {
     font-style: italic;
     font-size: 14px;
