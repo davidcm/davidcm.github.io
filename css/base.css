@@ -124,8 +124,7 @@ a {
   .content hr {
     border: 0;
     height: 4px;
-    background: #fff url("/images/hr.png") no-repeat;
-    //margin: 2em 3em; }
+    background: #fff url("/images/hr.png") no-repeat; }
   .content blockquote {
     font-style: italic;
     font-size: 14px;
@@ -166,7 +165,7 @@ a {
       padding: 5px 3px;
       margin: 0px;
       color: #777777;
-      border-bottom: 1px solid #eee; }
+      border-bottom: 1px dotted #eee; }
     .content li span {
       vertical-align: -20%;
 	  font-size: 10px; }
