@@ -7,9 +7,10 @@ comments: true
 
 Yesterday I finally finished all the stuff needed to do a (hopefully) propper release, sending an informative press note to many specialised blogs, making a press kit [in English](http://www.david.cm/presskit/sheepinhell_en) and [in Spanish](http://www.david.cm/presskit/sheepinhell_es) full of details about us and the game, and creating a [landing page](http://www.david.cm/landing/sheepinhell) that introduces the hole thing.
 
-Our official trailer has also been released and you can view it here:
+Our official trailer has also been released.
 
 <iframe id="video" src="//www.youtube-nocookie.com/embed/6wIvIz8m40s?rel=0" frameborder="0" allowfullscreen></iframe>
+
 
 
 A brief list of the new features are:
