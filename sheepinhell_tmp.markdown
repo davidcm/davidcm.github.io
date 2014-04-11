@@ -7,12 +7,10 @@ atic2a: <a href='http://www.atic2a.com'>Atic2a</a>
 
 <section class="content">
 
-![Sheep in Hell icon](images/sheepinhell.png) Sheep in Hell
+![Sheep in Hell icon](images/sheepinhell.png) Sheep in Hell <section class="byline">Published: January 7, 2014</section>
 ===========================================================
 
-<section class="byline">Published: January 7, 2014</section>
-
-Compatible with iPhone, iPod Touch and iPad.
+Compatible with iOS and Android devices.
   
 [![Get it on AppStore](images/badge_AppStore.png)](https://itunes.apple.com/es/app/sheep-in-hell/id788371896?mt=8)
 [![Get it on GooglePlay](images/badge_GooglePlay.png)](https://play.google.com/store/apps/details?id=cm.david.sheepinhell)
