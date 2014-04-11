@@ -125,7 +125,6 @@ a {
     border: 0;
     height: 2px;
     background: url("/images/hr.png") no-repeat;
-    //background-repeat: repeat-x;
     margin: 2em 3em; }
   .content blockquote {
     font-style: italic;
@@ -180,6 +179,11 @@ a {
 	  width: 32px;
 	  height: 32px;
 	  margin-right: 8px; }
+	.content li hr {
+      border: 0;
+      height: 2px;
+      background: url("/images/hr.png") no-repeat;
+      margin: 2em 3em; }
     .content a {
       text-decoration: none; }
     .content a:hover {
