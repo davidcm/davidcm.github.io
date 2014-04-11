@@ -19,7 +19,7 @@ Compatible with iOS and Android devices.
 About the game
 ---
 
-See the press kit [en](presskit/sheepinhell_en) | [es](presskit/sheepinhell_en).
+See the press kit ([english](presskit/sheepinhell_en), [spanish](presskit/sheepinhell_es)).
 
 ![Sheep in Hell screenshot](images/sheepinhell_scr.png)
   
