@@ -5,8 +5,6 @@ rtypex: <a href='http://rtypex.com'>Ángel García</a>
 atic2a: <a href='http://www.atic2a.com'>Atic2a</a>
 ---
 
-<section class="content">
-
 ![Sheep in Hell icon](images/sheepinhell.png) Sheep in Hell <section class="byline">Published: January 7, 2014</section>
 ===========================================================
 
@@ -44,5 +42,3 @@ This game was originally planned by {{page.rtypex}} and me as a doable project f
 After a well-deserved rest, we retook it and started working on it in our spare time. As we approached the beta phase, we had the honor of working with {{page.atic2a}}, an independent two-man music and sfx studio. They made a splendid work! Meanwhile I fixed many bugs and added some new features, {{page.rtypex}} made some last-minute art and we all did some playtest here and there. Suddenly a Gold Master arrived, just in time for the new year. So I packed everything and, well, distributed it.
 
 We don't know how well it's going to sell, but the main objective was to finish the game, and yeah, we did it. A big hug to you, workmates!
-
-</section>
