@@ -17,7 +17,7 @@ Get it now
 About the game
 ---
 
-See the press kit [en](presskit/sheepinhell_en)|[es](presskit/sheepinhell_en).
+See the press kit [en](presskit/sheepinhell_en) | [es](presskit/sheepinhell_en).
 
 ![Sheep in Hell screenshot](images/sheepinhell_scr.png)
   
