@@ -124,7 +124,7 @@ a {
   .content hr {
     border: 0;
     height: 2px;
-    background-image: url("/images/hr.png");
+    background: url("/images/hr.png") no-repeat;
     //background-repeat: repeat-x;
     margin: 2em 3em; }
   .content blockquote {
