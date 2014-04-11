@@ -8,14 +8,17 @@ atic2a: <a href='http://www.atic2a.com'>Atic2a</a>
 ![Sheep in Hell icon](images/sheepinhell.png) Sheep in Hell <section class="byline">Published: January 7, 2014</section>
 ===
 
-Compatible with iOS and Android devices.
+Get it now
+---
   
 [![Get it on AppStore](images/badge_AppStore.png)](https://itunes.apple.com/es/app/sheep-in-hell/id788371896?mt=8)
 [![Get it on GooglePlay](images/badge_GooglePlay.png)](https://play.google.com/store/apps/details?id=cm.david.sheepinhell)
   
 About the game
 ---
-  
+
+See the press kit [en](presskit/sheepinhell_en)|[es](presskit/sheepinhell_en).
+
 ![Sheep in Hell screenshot](images/sheepinhell_scr.png)
   
 You're a wolf and you've been bad. That's why you've been put in the deepness of a hell plagued with your most hated enemies: the sheep! But they're not normal sheep. No... They're possessed demonic sheep and won't hesitate to try to kill you!
