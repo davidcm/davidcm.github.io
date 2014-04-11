@@ -158,14 +158,13 @@ a {
       margin: 0 0 20px 0;
       padding: 0; }
     .content li {
-	  margin-bottom: 10px;
 	  line-height: 100%;
       font-size: 14px;
       list-style: none;
       padding: 5px 3px;
-      margin: 0px;
+      margin: 0 0 10px 0;
       color: #777777;
-      border-bottom: 1px dotted #888; }
+      border-bottom: 1px solid #eee; }
     .content li span {
       vertical-align: -20%;
 	  font-size: 10px; }
