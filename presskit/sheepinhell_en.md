@@ -137,6 +137,7 @@ Links
   <li><i class="icon icon-external-link"></i>Musicians website: <a href="http://www.atic2a.com">atic2a.com</a></li>
   <li><i class="icon icon-external-link"></i>Purchase: <a href="https://itunes.apple.com/us/app/sheep-in-hell/id788371896?mt=8">Apple AppStore</a></li>
   <li><i class="icon icon-external-link"></i>Purchase: <a href="https://play.google.com/store/apps/details?id=cm.david.sheepinhell">Google Play</a></li>
+  <li><i class="icon icon-external-link"></i>Purchase: <a href="http://www.amazon.com/gp/product/B00JWUVKFI">Amazon AppStore</a></li>
 </ul>
 
 <a id="contact"></a>
