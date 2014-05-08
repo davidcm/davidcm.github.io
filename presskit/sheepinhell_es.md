@@ -40,7 +40,7 @@ Factsheet
 	<h3>Información del juego</h3>
 	<ul class="listing">
 	  <li>Fecha de salida: 7 de enero de 2014</li>
-	  <li>Plataformas: iOS (iPhone, iPod Touch, iPad), Android (phones, tables, FireTV, Ouya)</li>
+	  <li>Plataformas: iOS (iPhone, iPod Touch, iPad), Android (phones, tablets, FireTV, Ouya)</li>
 	  <li>Precio habitual: 0.89€</li>
 	  <li>Web oficial: <a href="http://david.cm/landing/sheepinhell">Sheep in Hell - Un videojuego por Hiccup Games!</a></li>
 	</ul>
