@@ -11,12 +11,13 @@ atic2a: <a href='http://www.atic2a.com'>Atic2a</a>
 Get it now
 ---
 
-Compatible with iOS and Android devices.
+Compatible with iPhone, iPod Touch, iPad, Android phones, Android tablets, FireTV and Ouya.
 
 [![Get it on AppStore](images/badge_AppStore.png)](https://itunes.apple.com/es/app/sheep-in-hell/id788371896?mt=8)
 [![Get it on GooglePlay](images/badge_GooglePlay.png)](https://play.google.com/store/apps/details?id=cm.david.sheepinhell)
 [![Get it on Amazon](images/badge_Amazon.png)](http://www.amazon.com/gp/product/B00JWUVKFI)
-  
+[![Get it on Ouya](images/badge_Ouya.png)](https://www.ouya.tv/game/Sheep-in-Hell/)
+
 About the game
 ---
 
@@ -29,6 +30,19 @@ You're a wolf and you've been bad. That's why you've been put in the deepness of
 So run! Defend yourself! Because, after all, a wolf is by nature a predator, not a prey.
 
 Break through the dungeons, solve challenges and escape this hell... If you can!
+
+User comments
+---
+
+"This game has great audio, and a nice art style", Tom Darnell
+
+"Rampant and fresh action... And that being in hell", Nacho Reset
+
+"Do you want to destroy sheep but never dared to confess? Well, this is your game!", Fabián H
+
+"The game is full of humor", deVuego.es
+
+"Darkly humorous vision of the afterlife", Craig Forshey, SuperGameDroid.com
 
 Features
 ---
