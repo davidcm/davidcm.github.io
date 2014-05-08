@@ -31,7 +31,7 @@ So run! Defend yourself! Because, after all, a wolf is by nature a predator, not
 
 Break through the dungeons, solve challenges and escape this hell... If you can!
 
-User comments
+Users and press comments
 ---
 
 "This game has great audio, and a nice art style", Tom Darnell
