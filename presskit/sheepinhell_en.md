@@ -40,7 +40,7 @@ Factsheet
 	<h3>Game info</h3>
 	<ul class="listing">
 	  <li>Release date: January 7th, 2014</li>
-	  <li>Platforms: iOS (iPhone, iPod Touch, iPad), Android (phones, tablets, FireTV, Ouya)</li>
+	  <li>Platforms: iOS (iPhone, iPod Touch, iPad), Android (phones, tablets, FireTV, Ouya, GameStick)</li>
 	  <li>Regular price: $0.99</li>
 	  <li>Official website: <a href="http://david.cm/landing/sheepinhell">Sheep in Hell - A videogame by Hiccup Games!</a></li>
 	</ul>
@@ -139,6 +139,7 @@ Links
   <li><i class="icon icon-external-link"></i>Purchase: <a href="https://play.google.com/store/apps/details?id=cm.david.sheepinhell">Google Play</a></li>
   <li><i class="icon icon-external-link"></i>Purchase: <a href="http://www.amazon.com/gp/product/B00JWUVKFI">Amazon AppStore</a></li>
   <li><i class="icon icon-external-link"></i>Purchase: <a href="https://www.ouya.tv/game/Sheep-in-Hell/">Ouya</a></li>
+  <li><i class="icon icon-external-link"></i>Purchase: <a href="https://zone.gamestick.tv/game_370">GameStick</a></li>
 </ul>
 
 <a id="contact"></a>

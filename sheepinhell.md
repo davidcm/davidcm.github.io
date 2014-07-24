@@ -17,6 +17,7 @@ Compatible with iPhone, iPod Touch, iPad, Android phones, Android tablets, FireT
 [![Get it on GooglePlay](images/badge_GooglePlay.png)](https://play.google.com/store/apps/details?id=cm.david.sheepinhell)
 [![Get it on Amazon](images/badge_Amazon.png)](http://www.amazon.com/gp/product/B00JWUVKFI)
 [![Get it on Ouya](images/badge_Ouya.png)](https://www.ouya.tv/game/Sheep-in-Hell/)
+[![Get it on GameStick](images/badge_GameStick.png)](https://zone.gamestick.tv/game_370)
 
 About the game
 ---
