@@ -9,4 +9,4 @@ It's summer and, as every year, lots of kids come to [FXAnimation](http://www.fx
 
 The result is quite cool, they have fun and know new people with similar interests. I'm pretty content with the current status of the course, that has been better and better every year. That's why I feel like sharing here the four levels I designed and mounted, so that you can play it.
 
-Go to the [FXGameSpace project page](../fxgamespace) and download it!
+Go to the [FXGameSpace project page](fxgamespace) and download it!

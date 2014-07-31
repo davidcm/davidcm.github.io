@@ -13,6 +13,8 @@ About the game
   
 Every year, lots of kids go to [FXAnimation](http://www.fxanimation.es) to learn how to make a videogame. The course is simple enough to finish it within a month, but they learn many real concepts, like modeling, texturing, animating and (my part) designing. In the last two weeks, I share with them a Unity project that is ready to start mounting a level for a platform/exploration game, complete with characters, props and scripts.
 
-You can download it here: for [Windows](files/FXGameSpace2014_win.zip) and [Mac OS X](files/FXGameSpace2014_mac.zip).
+This is a build with four levels I designed during the course. Try it!
 
-In this project worked Juan González (modeling), Ismael Vega (animation) and me (programming and some basic modelling).
+You can download it for [Windows](files/FXGameSpace2014_win.zip) and [Mac OSX](files/FXGameSpace2014_mac.zip).
+
+In this project worked Juan González (modeling and texturing), Ismael Vega (animation) and me (programming and some basic modelling).
