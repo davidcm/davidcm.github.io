@@ -15,6 +15,6 @@ Every year, lots of kids go to [FXAnimation](http://www.fxanimation.es) to learn
 
 This is a build with four levels I designed during the course. Try it!
 
-You can download it for [Windows](fxgamespace/FXGameSpace2014_win.zip) and [Mac OSX](fxgamespace/FXGameSpace2014_mac.zip).
+You can download it for [Windows](fxgamespace_contents/FXGameSpace2014_win.zip) and [Mac OSX](fxgamespace_contents/FXGameSpace2014_mac.zip).
 
 In this project worked Juan González (modeling and texturing), Ismael Vega (animation) and me (programming and some basic modelling).
