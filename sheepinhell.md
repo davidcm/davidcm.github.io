@@ -11,13 +11,14 @@ atic2a: <a href='http://www.atic2a.com'>Atic2a</a>
 Get it now
 ---
 
-Compatible with iPhone, iPod Touch, iPad, Android phones, Android tablets, FireTV and Ouya.
+Compatible with iPhone, iPod Touch, iPad, Android phones, Android tablets, FireTV, Ouya and PSVita.
 
 [![Get it on AppStore](images/badge_AppStore.png)](https://itunes.apple.com/es/app/sheep-in-hell/id788371896?mt=8)
 [![Get it on GooglePlay](images/badge_GooglePlay.png)](https://play.google.com/store/apps/details?id=cm.david.sheepinhell)
 [![Get it on Amazon](images/badge_Amazon.png)](http://www.amazon.com/gp/product/B00JWUVKFI)
 [![Get it on Ouya](images/badge_Ouya.png)](https://www.ouya.tv/game/Sheep-in-Hell/)
 [![Get it on GameStick](images/badge_GameStick.png)](https://zone.gamestick.tv/game_370)
+[![Get it on PlayStation Store](images/badge_PSM.png)](http://p0.dl.playstation.net/p0/psns/psnschk.htm?a=psns%3Abrowse%3Fproduct%3DEM3234-NPOA00210_00-0000000000000000&type=psm)
 
 About the game
 ---
