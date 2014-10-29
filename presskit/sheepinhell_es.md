@@ -140,6 +140,7 @@ Enlaces
   <li><i class="icon icon-external-link"></i>Adquirir: <a href="http://www.amazon.com/gp/product/B00JWUVKFI">Amazon AppStore</a></li>
   <li><i class="icon icon-external-link"></i>Adquirir: <a href="https://www.ouya.tv/game/Sheep-in-Hell/">Ouya</a></li>
   <li><i class="icon icon-external-link"></i>Adquirir: <a href="https://zone.gamestick.tv/game_370">GameStick</a></li>
+  <li><i class="icon icon-external-link"></i>Adquirir: <a href="http://p0.dl.playstation.net/p0/psns/psnschk.htm?a=psns%3Abrowse%3Fproduct%3DEM3234-NPOA00210_00-0000000000000000&type=psm">PlayStation Store</a></li>
 </ul>
 
 <a id="contact"></a>
