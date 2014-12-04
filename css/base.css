@@ -25,7 +25,8 @@ a {
     padding: 0;
     margin-left: 2px;
     border-radius: 5px;
-    border: 1; }
+    border-width: 1px;
+    border-color: #957354; }
   .sidebar .name {
     margin: 10px 0 20px 0;
     font-size: 32px; }
