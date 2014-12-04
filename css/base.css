@@ -5,7 +5,7 @@ body {
   -webkit-font-smoothing: antialiased; }
 
 a {
-  color: #227ce8; }
+  color: #ff7a00; }
 
 .sidebar {
   position: fixed;
@@ -36,7 +36,7 @@ a {
       margin-left: 0px;
       color: black; }
       .sidebar .meta a:hover {
-        color: #227ce8; }
+        color: #ff7a00; }
   .sidebar .meta .icon {
     margin-right: 6px; }
   .sidebar .sections {
@@ -48,7 +48,7 @@ a {
       padding: 3px 0;
       color: black; }
       .sidebar .sections a:hover {
-        color: #227ce8; }
+        color: #ff7a00; }
     .sidebar .sections ul {
       margin: 0;
       padding: 0; }
