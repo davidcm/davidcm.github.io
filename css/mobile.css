@@ -22,7 +22,8 @@ body {
     font-size: 17px;
     margin: 0;
     padding: 3px;
-    float: left; }
+    float: left;
+    text-align: left; }
   .sidebar .projects {
     position: absolute;
     right: 5px;

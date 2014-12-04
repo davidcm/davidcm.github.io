@@ -24,25 +24,26 @@ a {
     border: 0; }
   .sidebar .avatar {
     padding: 0;
-    margin-left: 2px;
-    border-radius: 8px; }
+    margin-left: 2px; }
   .sidebar .name {
     margin: 10px 0 20px 0;
     font-size: 32px; }
-  .sidebar .meta a {
-    margin-left: 0px;
-    color: black; }
-    .sidebar .meta a:hover {
-      color: #227ce8; }
   .sidebar .meta {
-    margin-left: 4px; }
+    margin-left: 4px;
+    text-align: center; }
+    .sidebar .meta a {
+      margin-left: 0px;
+      color: black; }
+      .sidebar .meta a:hover {
+        color: #227ce8; }
   .sidebar .meta .icon {
     margin-right: 6px; }
   .sidebar .sections {
     margin: 15px 0 0 0;
     color: #BBBBBB;
     font-size: 17px;
-    display: block; }
+    display: block;
+    text-align: right; }
     .sidebar .sections a {
       padding: 3px 0;
       color: black; }

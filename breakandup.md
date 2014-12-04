@@ -20,7 +20,7 @@ About the game
 
 Take a quick game. Feel the emotion of throwing a pixel ball. Aim at the gap through the blocks mess. And finally enjoy as they collide in a symphony of growing pleasure. Everything becomes faster and harder as your skills improve. Bouncing ball, agile racket, best scores all around! And don't forget to share your results on Twitter!
 
-We all love classics for what they mean in our past life. And it's natural that, once in a while, someone comes with a tribute. That's the reason why *Break & Up* exist! It's a humble, minimal yet addictive Breakout tribute with a spin around continuity, rhythm and briefness.
+We all love classics for what they mean in our past life. And it's natural that, once in a while, someone comes with a tribute. That's the reason why **Break & Up** exist! It's a humble, minimal yet addictive Breakout tribute with a spin around continuity, rhythm and briefness.
 
 Features
 ---
@@ -39,6 +39,6 @@ In this game I wanted to produce situations where the user had to throw a ball a
 
 Graphics wise, it's obvious that I wanted to keep it simple so it didn't consume much of my time. However, it was a requirement to be pleasant to the eyes. I came up with a style that is (in my opinion) both pretty and functional.
 
-As of the music, I tried to do it myself but I'm no musician at all! Luckily, {{page.pau}} offered to compose the main theme. He runs the {{page.atic2a}} team among other projects, but he's also interested in building a solo career. His brilliant work for *Break & Up* is just an example of this adventure of him.
+As of the music, I tried to do it myself but I'm no musician at all! Luckily, {{page.pau}} offered to compose the main theme. He runs the {{page.atic2a}} team among other projects, but he's also interested in building a solo career. His brilliant work for **Break & Up** is just an example of this adventure of him.
 
 I have to say, nonetheless, that I've been a bit untrue to myself placing ads in this game. I'm of the opinion that ads break the immersion of an experience. But well, it's really like an experiment so I can see how well the method works, and anyway, the ad appears in a moment that doesn't disturb too much.
