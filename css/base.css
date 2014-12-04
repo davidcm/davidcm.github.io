@@ -20,9 +20,8 @@ a {
   .sidebar img {
     padding: 0 3px; }
   .sidebar .avatar {
-    border-radius: 8px; }
-    .sidebar .avatar img {
-      border: 1px solid #957354; }
+    border-radius: 8px;
+    border: 1px solid #957354; }
     .sidebar .avatar img:hover {
       border: 1px solid #ff7a00; }
   .sidebar .name {
