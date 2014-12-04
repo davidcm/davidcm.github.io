@@ -12,7 +12,6 @@ a {
 
 .sidebar {
   position: fixed;
-  right: 15px;
   top: 15px;
   width: 90px;
   font-family: "Yanone Kaffeesatz", Helvetica, sans-serif; }
@@ -21,7 +20,7 @@ a {
     text-decoration: none; }
   .sidebar img {
     padding: 0 3px;
-    border: 0; }
+    border: 1; }
   .sidebar .avatar {
     padding: 0;
     margin-left: 2px;
