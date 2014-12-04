@@ -32,7 +32,7 @@ a {
   .sidebar .meta {
     margin-left: 4px;
     margin-right: 4px;
-    text-align: center; }
+    text-align: left; }
     .sidebar .meta a {
       margin-left: 0px;
       color: black; }
@@ -45,7 +45,7 @@ a {
     color: #BBBBBB;
     font-size: 17px;
     display: block;
-    text-align: right; }
+    text-align: left; }
     .sidebar .sections a {
       padding: 3px 0;
       color: black; }
