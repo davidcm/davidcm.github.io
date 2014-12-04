@@ -12,8 +12,9 @@ a {
 
 .sidebar {
   position: fixed;
+  left: 15px;
   top: 15px;
-  width: 90px;
+  width: 75px;
   font-family: "Yanone Kaffeesatz", Helvetica, sans-serif; }
   .sidebar a {
     color: black;
@@ -23,7 +24,6 @@ a {
   .sidebar .avatar {
     padding: 0;
     margin-left: 2px;
-    margin-right: 2px;
     border-radius: 5px;
     border: 1; }
   .sidebar .name {
