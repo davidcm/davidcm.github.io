@@ -1,6 +1,7 @@
 ---
 layout: layout
 title: Contact
+redirect_from: "/support"
 ---
 
 {{page.title}}

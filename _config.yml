@@ -4,6 +4,9 @@ permalink: /posts/:title
 rdiscount:
   extensions: [smart]
 
+gems:
+  - jekyll-redirect-from
+
 name: david.cm
 url: http://www.david.cm
 description: My independent professional self.
