@@ -3,22 +3,14 @@ layout: layout
 title: Break & Up
 ---
 
-![Break & Up icon](../images/breakandup.png) Break & Up <section class="byline">Published: December 4, 2014</section>
+![{{page.title}} icon](../images/breakandup.png){{page.title}}<section class="byline">Not yet published</section>
 ===
 
-Available soon
----
-
-Compatible with iPhone, iPod Touch and iPad.
-
-About the game
----
-
-![Break & Up screenshot](../images/breakandup_scr.png)
+![{{page.title}} screenshot](../images/breakandup_scr.png)
 
 Take a quick game. Feel the emotion of throwing a pixel ball. Aim at the gap through the blocks mess. And finally enjoy as they collide in a symphony of growing pleasure. Everything becomes faster and harder as your skills improve. Bouncing ball, agile racket, best scores all around! And don't forget to share your results on Twitter!
 
-We all love classics for what they mean in our past life. And it's natural that, once in a while, someone comes with a tribute. That's the reason why **Break & Up** exist! It's a humble, minimal yet addictive Breakout tribute with a spin around continuity, rhythm and briefness.
+We all love classics for what they mean in our past life. And it's natural that, once in a while, someone comes with a tribute. That's the reason why **{{page.title}}** exist! It's a humble, minimal yet addictive Breakout tribute with a spin around continuity, rhythm and briefness.
 
 Features
 ---

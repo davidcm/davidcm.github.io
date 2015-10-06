@@ -3,10 +3,10 @@ layout: layout
 title: Immaturity
 ---
 
-![Immaturity icon](../images/immaturity.png){{page.title}}<section class="byline">Published: January 27, 2012</section>
+![{{page.title}} icon](../images/immaturity.png){{page.title}}<section class="byline">Published: January 27, 2012</section>
 ===
 
-![Immaturity screenshot](../images/immaturity_scr.png)
+![{{page.title}} screenshot](../images/immaturity_scr.png)
 
 It was our project for the Global Game Jam 2012. We won the 2nd local prize!
 
