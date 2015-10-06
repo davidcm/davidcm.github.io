@@ -32,3 +32,11 @@ Graphics wise, it's obvious that I wanted to keep it simple so it didn't consume
 As of the music, I tried to do it myself but I'm no musician at all! Luckily, {{site.atic2a}} offered to compose the main theme.
 
 I have to say, nonetheless, that I've been a bit untrue to myself placing ads in this game. I'm of the opinion that ads break the immersion of an experience. But well, it's really like an experiment so I can see how well the method works, and anyway, the ad appears in a moment that doesn't disturb too much.
+
+Credits
+---
+
+- Programmed by {{site.me}}
+- Music by {{site.atic2a}}
+- SFX by {{site.me}}
+- 2D art by {{site.me}}

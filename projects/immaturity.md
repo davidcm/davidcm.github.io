@@ -17,15 +17,12 @@ Here is [the GGJ archive page of Immaturity](http://archive.globalgamejam.org/20
 Credits
 ---
 
-Programmed by {{site.me}}, {{site.bud}}
-
-Music and SFX by {{site.bud}}
-
-Models and animations by {{site.rtypex}}, {{site.raulj}}, {{site.xavi}}
+- Programmed by {{site.me}}, {{site.bud}}
+- Music and SFX by {{site.bud}}
+- Models and animations by {{site.rtypex}}, {{site.raulj}}, {{site.xavi}}
 
 Downloads
 ---
 
-Windows <a href="../files/Immaturity_win.zip"><i class="icon icon-download-alt"></i></a>
-
-Mac OSX <a href="../files/Immaturity_mac.zip"><i class="icon icon-download-alt"></i></a>
+- Windows <a href="../files/Immaturity_win.zip"><i class="icon icon-download-alt"></i></a>
+- Mac OSX <a href="../files/Immaturity_mac.zip"><i class="icon icon-download-alt"></i></a>
