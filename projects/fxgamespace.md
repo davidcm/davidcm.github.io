@@ -3,7 +3,7 @@ layout: layout
 title: FXGameSpace 2014
 ---
 
-![{{page.title}} icon](images/fxgamespace.png){{page.title}}<section class="byline">Published: July 31, 2014</section>
+![{{page.title}} icon](../images/fxgamespace.png){{page.title}}<section class="byline">Published: July 31, 2014</section>
 ===
 
 ![{{page.title}} screenshot](../images/fxgamespace_scr.png)

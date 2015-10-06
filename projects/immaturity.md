@@ -19,7 +19,7 @@ Credits
 
 - Programmed by {{site.me}} and {{site.bud}}
 - Music and SFX by {{site.bud}}
-- Models and animations by {{site.rtypex}}, {{site.raulj}} and {{site.xavi}}
+- Models, textures and animations by {{site.rtypex}}, {{site.raulj}} and {{site.xavi}}
 
 Downloads
 ---

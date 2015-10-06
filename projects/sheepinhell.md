@@ -58,8 +58,8 @@ Credits
 Get it now
 ---
 
-[![Get it on AppStore](images/badge_AppStore.png)](https://itunes.apple.com/es/app/sheep-in-hell/id788371896?mt=8)
-[![Get it on GooglePlay](images/badge_GooglePlay.png)](https://play.google.com/store/apps/details?id=cm.david.sheepinhell)
-[![Get it on Amazon](images/badge_Amazon.png)](http://www.amazon.com/gp/product/B00JWUVKFI)
-[![Get it on Ouya](images/badge_Ouya.png)](https://www.ouya.tv/game/Sheep-in-Hell/)
-[![Get it on GameStick](images/badge_GameStick.png)](https://zone.gamestick.tv/game_370)
+[![Get it on AppStore](../images/badge_AppStore.png)](https://itunes.apple.com/es/app/sheep-in-hell/id788371896?mt=8)
+[![Get it on GooglePlay](../images/badge_GooglePlay.png)](https://play.google.com/store/apps/details?id=cm.david.sheepinhell)
+[![Get it on Amazon](../images/badge_Amazon.png)](http://www.amazon.com/gp/product/B00JWUVKFI)
+[![Get it on Ouya](../images/badge_Ouya.png)](https://www.ouya.tv/game/Sheep-in-Hell/)
+[![Get it on GameStick](../images/badge_GameStick.png)](https://zone.gamestick.tv/game_370)
