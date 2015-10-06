@@ -3,26 +3,12 @@ layout: layout
 title: Sheep in Hell
 ---
 
-![Sheep in Hell icon](../images/sheepinhell.png) Sheep in Hell <section class="byline">Published: January 7, 2014</section>
+![{{page.title}} icon](../images/sheepinhell.png){{page.title}}<section class="byline">Published: January 7, 2014</section>
 ===
 
-Get it now
----
-
-Compatible with iPhone, iPod Touch, iPad, Android phones, Android tablets, FireTV and Ouya.
-
-[![Get it on AppStore](images/badge_AppStore.png)](https://itunes.apple.com/es/app/sheep-in-hell/id788371896?mt=8)
-[![Get it on GooglePlay](images/badge_GooglePlay.png)](https://play.google.com/store/apps/details?id=cm.david.sheepinhell)
-[![Get it on Amazon](images/badge_Amazon.png)](http://www.amazon.com/gp/product/B00JWUVKFI)
-[![Get it on Ouya](images/badge_Ouya.png)](https://www.ouya.tv/game/Sheep-in-Hell/)
-[![Get it on GameStick](images/badge_GameStick.png)](https://zone.gamestick.tv/game_370)
-
-About the game
----
+![Sheep in Hell screenshot](../images/sheepinhell_scr.png)
 
 See the press kit ([english](../presskit/sheepinhell_en), [spanish](../presskit/sheepinhell_es)).
-
-![Sheep in Hell screenshot](../images/sheepinhell_scr.png)
   
 You're a wolf and you've been bad. That's why you've been put in the deepness of a hell plagued with your most hated enemies: the sheep! But they're not normal sheep. No... They're possessed demonic sheep and won't hesitate to try to kill you!
 
@@ -61,3 +47,19 @@ This game was originally planned by {{site.rtypex}} and me as a doable project f
 After a well-deserved rest, we retook it and started working on it in our spare time. As we approached the beta phase, we had the honor of working with {{site.atic2a}}, an independent two-man music and sfx studio. They made a splendid work! Meanwhile I fixed many bugs and added some new features, {{site.rtypex}} made some last-minute art and we all did some playtest here and there. Suddenly a Gold Master arrived, just in time for the new year. So I packed everything and, well, distributed it.
 
 We don't know how well it's going to sell, but the main objective was to finish the game, and yeah, we did it. A big hug to you, workmates!
+
+Credits
+---
+
+- Designed by {{site.me}} and {{site.rtypex}}
+- Programmed by {{site.me}}
+- Models, textures, animations and illustrations by {{site.rtypex}}
+
+Get it now
+---
+
+[![Get it on AppStore](images/badge_AppStore.png)](https://itunes.apple.com/es/app/sheep-in-hell/id788371896?mt=8)
+[![Get it on GooglePlay](images/badge_GooglePlay.png)](https://play.google.com/store/apps/details?id=cm.david.sheepinhell)
+[![Get it on Amazon](images/badge_Amazon.png)](http://www.amazon.com/gp/product/B00JWUVKFI)
+[![Get it on Ouya](images/badge_Ouya.png)](https://www.ouya.tv/game/Sheep-in-Hell/)
+[![Get it on GameStick](images/badge_GameStick.png)](https://zone.gamestick.tv/game_370)
