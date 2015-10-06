@@ -3,8 +3,9 @@ layout: layout
 title: Immaturity
 ---
 
-![FXGameSpace icon](../images/fxgamespace.png) FXGameSpace 2014 <section class="byline">Published: July 31, 2014</section>
+![Immaturity icon](../images/immaturity.png) {{page.title}}
 ===
+<section class="byline">Published: July 31, 2014</section>
 
 About the game
 ---
