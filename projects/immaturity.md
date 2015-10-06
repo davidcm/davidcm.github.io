@@ -3,12 +3,8 @@ layout: layout
 title: Immaturity
 ---
 
-![Immaturity icon](../images/immaturity.png) {{page.title}}
+![Immaturity icon](../images/immaturity.png){{page.title}}<section class="byline">Published: July 31, 2014</section>
 ===
-<section class="byline">Published: July 31, 2014</section>
-
-About the game
----
 
 ![Immaturity screenshot](../images/immaturity_scr.png)
 
