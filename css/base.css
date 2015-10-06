@@ -114,7 +114,7 @@ a {
     padding: 2px 3px; }
   .content img {
     padding: 3px;
-    border: 1px solid #eeeeee;
+	border: 1px solid black;
 	border-radius: 8px;
 	padding: 0px;
     max-width: 100%; }
