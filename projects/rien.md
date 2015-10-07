@@ -19,5 +19,6 @@ Credits
 
 - Designed by {{site.me}}
 - Programmed by {{site.me}}
+- Written by {{site.me}} and {{site.ferminho}}
 - Music by {{site.diego}} and {{site.alvaro}}
 - Models and textures by {{site.rtypex}} and {{site.me}}
