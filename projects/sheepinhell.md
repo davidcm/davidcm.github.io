@@ -1,6 +1,7 @@
 ---
 layout: layout
 title: Sheep in Hell
+redirect-from: /sheepinhell/
 ---
 
 ![{{page.title}} icon](../images/sheepinhell.png){{page.title}}<section class="byline">Published: January 7, 2014</section>
