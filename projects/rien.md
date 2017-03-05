@@ -3,8 +3,10 @@ layout: layout
 title: Rien
 ---
 
-![{{page.title}} icon](../images/rien.png){{page.title}}<section class="byline">Not yet published</section>
-===
+<h1>
+<img src="../images/rien.png">{{page.title}}
+<section class="byline">Not yet published</section>
+</h1>
 
 ![{{page.title}} screenshot](../images/rien_scr.png)
 

@@ -4,8 +4,10 @@ title: Sheep in Hell
 redirect-from: /sheepinhell/
 ---
 
-![{{page.title}} icon](../images/sheepinhell.png){{page.title}}<section class="byline">Published: January 7, 2014</section>
-===
+<h1>
+<img src="../images/sheepinhell.png">{{page.title}}
+<section class="byline">Published: January 7, 2014</section>
+</h1>
 
 ![Sheep in Hell screenshot](../images/sheepinhell_scr.png)
 

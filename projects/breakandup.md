@@ -3,8 +3,10 @@ layout: layout
 title: Break & Up
 ---
 
-![{{page.title}} icon](../images/breakandup.png){{page.title}}<section class="byline">Not yet published</section>
-===
+<h1>
+<img src="../images/breakandup.png">{{page.title}}
+<section class="byline">Not yet published</section>
+</h1>
 
 ![{{page.title}} screenshot](../images/breakandup_scr.png)
 

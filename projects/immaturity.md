@@ -3,8 +3,10 @@ layout: layout
 title: Immaturity
 ---
 
-![{{page.title}} icon](../images/immaturity.png){{page.title}}<section class="byline">Published: January 27, 2012</section>
-===
+<h1>
+<img src="../images/immaturity.png">{{page.title}}
+<section class="byline">Published: January 27, 2012</section>
+</h1>
 
 ![{{page.title}} screenshot](../images/immaturity_scr.png)
 
