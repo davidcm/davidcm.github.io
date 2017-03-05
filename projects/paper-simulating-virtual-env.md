@@ -3,8 +3,9 @@ layout: layout
 title: Simulating Virtual Environments
 ---
 
+<h1>
 ![{{page.title}} icon](../images/paper-simulating-virtual-env.png){{page.title}}<section class="byline">Published: 2010</section>
-===
+</h1>
 
 ![{{page.title}} screenshot](../images/paper-simulating-virtual-env_scr.png)
 
