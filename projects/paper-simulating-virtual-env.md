@@ -4,7 +4,7 @@ title: Simulating Virtual Environments
 ---
 
 <h1>
-![{{page.title}} icon](../images/paper-simulating-virtual-env.png){{page.title}}
+<img src="../images/paper-simulating-virtual-env.png">{{page.title}}
 <section class="byline">Published: 2010</section>
 </h1>
 
