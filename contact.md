@@ -9,12 +9,11 @@ redirect_from: /support/
 
 Use the form below to send a message or support request.
 
-<form action="http://getsimpleform.com/messages?form_api_token=e50faa7b927fdd868578ec19b747845a"
-method="post">
+<form action="http://getsimpleform.com/messages?form_api_token=e50faa7b927fdd868578ec19b747845a" method="post">
   <input type="hidden" name="redirect_to" value="http://www.david.cm/contact-thankyou" />
 <p>
   <label>Your name:</label>
-  <input type="text" name="name" maxlength="30" />
+  <input type="text" name="name" maxlength="30">
 </p>
 <p>
   <label>Your email:</label>
