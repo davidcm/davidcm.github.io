@@ -9,17 +9,19 @@ redirect-from: /born3d/
 <section class="byline">Published: April, 2017</section>
 </h1>
 
-![Born3D screenshot 1](../images/born3d_1_scr.png)
-
 In Barcelona there is a popular archeological site in the heart of the Born town, where you can find the rests of the old city dating from year 1700. In order to help people know about the history of the place, the goverment wanted to create this mobile app, which made it easy.
+
+![Born3D screenshot 1](../images/born3d_1_scr.png)
 
 These are the two sections that I made:
 
-One is a realistic 3D recreation of the site, made using the latest laser scanning technology, navigatable with standard (as in Google Maps) gestures.
+One section is a realistic 3D recreation of the site, made using the latest laser scanning technology, navigatable with standard (as in Google Maps) gestures. Being my responsibility that the final model had to be easily moved by a modest phone, I had to convince the others about the needed low resolution of both geometry and textures. Coming from the excessive detail of scanned data, it always hurts to an artist to remove quality, but in the end we all saw that a drastic reduction still presented very nice quality.
 
-Another is a GPS enabled augmented reality interface with which the user can navigate inside the Born town, seeing an schematic view of how was the town back in the time, while really walking around the streets of today.
+Another section is a GPS enabled augmented reality interface with which the user can navigate inside the Born town, seeing a schematic view of how was the town back in the time, while really walking around the streets of today. While testing we noticed how much the surrounding buildings affected the GPS signal (Born has many narrow streets!), but that was a problem way beyond our capabilities.
 
 ![Born3D screenshot 2](../images/born3d_2_scr.png)
+
+In a final iteration, I also made a web version for the site section, which required an update in the navigation inputs, localization awareness and some cosmetic changes.
 
 Features
 ---
