@@ -229,12 +229,11 @@ a {
     padding: 4px;
     height: 70px;
     margin: 2px 0 5px 0;
-    color: #777777;
-    vertical-align: middle;
-    border-bottom: 2px solid #eee; }
+    color: gray;
+    border-bottom: 2px solid lightgray; }
   .mainlist li span {
     font-family: Helvetica, sans-serif;
-	  line-height: 15px;
+	  line-height: 10px;
 	  font-size: 12px; }
 	.mainlist li img {
 	  float: left;
