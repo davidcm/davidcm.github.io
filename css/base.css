@@ -223,7 +223,7 @@ a {
   .mainlist li {
 	  line-height: 100%;
     font-size: 18px;
-    list-style: none;
+    list-style: bold;
     padding: 4px;
     height: 70px;
     margin: 2px 0 5px 0;
@@ -235,7 +235,7 @@ a {
     vertical-align: bottom; }
 	.mainlist li img {
 	  float: left;
-	  border: 1px;
+	  border: 1px solid black;
 	  width: 64px;
 	  height: 64px;
 	  margin-right: 8px; }
