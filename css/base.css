@@ -224,13 +224,14 @@ a {
 	  line-height: 100%;
     font-size: 18px;
     list-style: none;
-    padding: 2px;
+    padding: 8px;
     height: 70px;
     margin: 2px 0 5px 0;
     color: #777777;
     border-bottom: 2px solid #eee; }
   .mainlist li span {
-	  font-size: 10px; }
+	  font-size: 10px;
+    vertical-align: bottom; }
 	.mainlist li img {
 	  float: left;
 	  border: 0px;
