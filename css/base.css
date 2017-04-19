@@ -230,7 +230,8 @@ a {
     color: #777777;
     border-bottom: 2px solid #eee; }
   .mainlist li span {
-	  font-size: 10px;
+	  line-height: 15px;
+	  font-size: 12px;
     vertical-align: bottom; }
 	.mainlist li img {
 	  float: left;
