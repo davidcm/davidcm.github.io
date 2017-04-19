@@ -66,7 +66,7 @@ a {
     text-decoration: none; }
   .content h1 img {
     float: left;
-	margin-right: 10px; }
+	  margin-right: 10px; }
   .content h2 {
     color: #333;
     font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
@@ -231,6 +231,7 @@ a {
     color: #777777;
     border-bottom: 2px solid #eee; }
   .mainlist li span {
+    font-weight: normal;
 	  line-height: 15px;
 	  font-size: 12px;
     vertical-align: bottom; }
