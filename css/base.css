@@ -230,7 +230,7 @@ a {
     height: 70px;
     margin: 2px 0 5px 0;
     color: gray;
-    border-bottom: 2px solid lightgray; }
+    border-bottom: 1px solid lightgray; }
   .mainlist li span {
     font-family: Helvetica, sans-serif;
 	  line-height: 10px;
