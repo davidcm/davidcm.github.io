@@ -24,6 +24,10 @@ body {
     padding: 3px;
     float: left;
     text-align: left; }
+    .sidebar .sections li {
+      list-style: none;
+      margin-bottom: 7px;
+      white-space: nowrap; }
   .sidebar .projects {
     position: absolute;
     right: 5px;

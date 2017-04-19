@@ -171,8 +171,8 @@ a {
 	.content li img {
 	  float: left;
 	  border: 0px;
-	  width: 32px;
-	  height: 32px;
+	  width: 64px;
+	  height: 64px;
 	  margin-right: 8px; }
     .content a {
       text-decoration: none; }
