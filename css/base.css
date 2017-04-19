@@ -235,7 +235,7 @@ a {
     vertical-align: bottom; }
 	.mainlist li img {
 	  float: left;
-	  border: 0px;
+	  border: 1px;
 	  width: 64px;
 	  height: 64px;
 	  margin-right: 8px; }
