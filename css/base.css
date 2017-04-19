@@ -223,7 +223,8 @@ a {
   .mainlist li {
 	  line-height: 100%;
     font-size: 18px;
-    list-style: bold;
+    list-style: none;
+    font-weight: bold;
     padding: 4px;
     height: 70px;
     margin: 2px 0 5px 0;
