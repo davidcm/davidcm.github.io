@@ -150,7 +150,6 @@ a {
     font-family: Helvetica, sans-serif;
     line-height: 1.6em; }
     .content ul {
-      padding: 0;
       font-family: Helvetica, sans-serif;
       margin: 0 0 20px 0;
       padding: 0; }
@@ -222,10 +221,11 @@ a {
       max-width: 18%; }
 
   .mainlist li {
-	  line-height: 100%;
+	  line-height: 120%;
     font-size: 20px;
     list-style: none;
     padding: 2px;
+    vertical-align: -20%;
     margin: 2px 0 5px 0;
     color: #777777;
     border-bottom: 2px solid #eee; }

@@ -27,7 +27,7 @@ body {
     .sidebar .sections li {
       list-style: none;
       margin-bottom: 7px;
-      margin-right: 20px;
+      margin-left: 20px;
       display: inline; }
   .sidebar .projects {
     position: absolute;
