@@ -224,14 +224,14 @@ a {
 	  line-height: 100%;
     font-size: 18px;
     list-style: none;
-    font-weight: normal;
+    font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
     padding: 4px;
     height: 70px;
     margin: 2px 0 5px 0;
     color: #777777;
     border-bottom: 2px solid #eee; }
   .mainlist li span {
-    font-weight: normal;
+    font-family: Helvetica, sans-serif;
 	  line-height: 15px;
 	  font-size: 12px;
     vertical-align: bottom; }
