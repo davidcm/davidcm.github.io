@@ -230,7 +230,7 @@ a {
     height: 70px;
     margin: 2px 0 5px 0;
     color: #777777;
-    align-content: space-between;
+    vertical-align: middle;
     border-bottom: 2px solid #eee; }
   .mainlist li span {
     font-family: Helvetica, sans-serif;
