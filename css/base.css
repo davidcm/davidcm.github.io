@@ -236,8 +236,9 @@ a {
 	  line-height: 10px;
 	  font-size: 12px; }
 	.mainlist li img {
+    border: 1px solid black;
+	  border-radius: 8px;
 	  float: left;
-	  box-shadow: 0px 0px 5px 2px gray;
 	  width: 64px;
 	  height: 64px;
 	  margin-right: 8px; }
