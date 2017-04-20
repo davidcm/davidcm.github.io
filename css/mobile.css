@@ -5,7 +5,8 @@ body {
   position: inherit;
   width: inherit;
   margin: 0;
-  padding: 5px; }
+  padding: 5px;
+  border-bottom: 1px solid black; }
   .sidebar .name {
     font-size: 36px;
     position: relative;
