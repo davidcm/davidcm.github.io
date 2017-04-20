@@ -10,7 +10,7 @@ a {
 .sidebar {
   position: fixed;
   left: 15px;
-  top: 15px;
+  /*top: 15px;*/
   width: 75px;
   font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
   text-align: right; }
@@ -243,6 +243,8 @@ a {
 	  width: 64px;
 	  height: 64px;
 	  margin-right: 8px; }
+  .mainlist li img:hover {
+    border: 1px solid #ff7a00; }
 
 #video {
 	display: block;
