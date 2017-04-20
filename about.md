@@ -41,3 +41,7 @@ Worked at [EVENTLab](http://www.event-lab.org/), led by {{site.melslater}}, wher
 ---
 
 Worked at [T-Systems CRV Barcelona](http://www.crviberia.com/), a team of experts in interactive VR projects for commercial purposes, using technologies such as CAVE, Powerwall and AR. There I worked creating 3D assets, extending their engine scripting features, etc.
+
+---
+
+My [LinkedIn](https://www.linkedin.com/in/david-corominas-77b24334/)
