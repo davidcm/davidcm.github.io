@@ -7,7 +7,7 @@ title: About
 david.cm<section class="byline">about me...</section>
 </h1>
 
-My name is David Corominas Montes and this is my professional history:
+My name is David Corominas Montes and this is roughly my professional history:
 
 2009 - Now
 ---
