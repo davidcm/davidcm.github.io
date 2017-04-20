@@ -26,7 +26,7 @@ body {
     text-align: left; }
     .sidebar .sections li {
       list-style: none;
-      margin-bottom: 7px;
+      /*margin-bottom: 7px;*/
       margin-left: 10px;
       margin-right: 10px;
       display: inline; }
@@ -43,6 +43,9 @@ body {
   clear: both; }
   .content h1 {
     margin: 0 0 3px 0; }
+  .content h1 img {
+    width: 64px;
+    height: 64px; }
 
 #video {
 	border-radius: 5px;

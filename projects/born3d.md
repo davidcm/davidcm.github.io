@@ -6,7 +6,7 @@ redirect-from: /born3d/
 
 <h1>
 <img src="../images/born3d.png">{{page.title}}
-<section class="byline">Published: April, 2017</section>
+<section class="byline">Not yet published</section>
 </h1>
 
 In Barcelona there is a popular archeological site in the heart of the Born town, where you can find the rests of the old city dating from year 1700. In order to help people know about the history of the place, the goverment wanted to create this mobile app, which made it easy.

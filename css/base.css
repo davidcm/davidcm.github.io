@@ -20,8 +20,8 @@ a {
   .sidebar .avatar {
     border-radius: 8px;
     border: 1px solid black; }
-    .sidebar img:hover {
-      border: 1px solid #ff7a00; }
+  .sidebar img:hover {
+    border: 1px solid #ff7a00; }
   .sidebar .name {
     margin: 10px 0 20px 0;
     font-size: 32px; }
