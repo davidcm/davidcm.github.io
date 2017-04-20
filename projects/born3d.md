@@ -13,7 +13,7 @@ In Barcelona there is a popular archeological site in the heart of the Born town
 
 ![Born3D screenshot 1](../images/born3d_1_scr.png)
 
-These are the two sections that I made:
+These are the two sections in **{page.title}** that I made:
 
 One section is a realistic 3D recreation of the site, made using the latest laser scanning technology, navigatable with standard (as in Google Maps) gestures. Being my responsibility that the final model had to be easily moved by a modest phone, I had to convince the others about the needed low resolution of both geometry and textures. Coming from the excessive detail of scanned data, it always hurts to an artist to remove quality, but in the end we all saw that a drastic reduction still presented very nice quality.
 

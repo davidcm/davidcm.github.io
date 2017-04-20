@@ -25,7 +25,7 @@ In parallel I research how to effectively make VR cinematics in Unreal Engine, i
 2015 - 2017
 ---
 
-Been consultor and Unity programmer in a 3D mobile app (iOS and Android) for archeological visualization of Barcelona's Born old town, using a scanned 3D model, schematic town model, pseudo-AR interface, Google Maps style touch interface...
+Been consultor and Unity programmer in [Born3D](projects/born3d), a 3D mobile app (iOS and Android) for archeological visualization of Barcelona's Born old town, using a scanned 3D model, schematic town model, pseudo-AR interface, Google Maps style touch interface...
 
 Ported the archeological site section to WebGL afterwards.
 

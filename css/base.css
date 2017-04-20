@@ -122,7 +122,7 @@ a {
   .content hr {
     border: 0;
     height: 4px;
-    background: #fff url("/images/hr.png") no-repeat; }
+    background: white url("/images/hr.png") no-repeat; }
   .content blockquote {
     font-style: italic;
     font-size: 14px;
@@ -201,14 +201,15 @@ a {
     float: left;
     margin-right: 10px;
     padding: 5px 15px;
-    border: 1px solid #000;
+    border: 1px solid black;
     font-family: Helvetica, sans-serif;
     font-size: 12px;
     font-weight: bold; }
   .content .talk-design .color .white {
-    color: #fff; }
+    color: white; }
   .content form label {
-    width: 130px; float: left; }
+    width: 130px;
+    float: left; }
   .content .submit {
     margin-left: 130px; }
 

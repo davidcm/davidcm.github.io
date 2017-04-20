@@ -1,6 +1,3 @@
-body {
-  background-image: url("/images/bg-horz.PNG"); }
-
 .sidebar {
   position: inherit;
   width: inherit;
@@ -41,11 +38,12 @@ body {
   padding: 3px 5px;
   width: inherit;
   clear: both; }
+  /*
   .content h1 {
-    margin: 0 0 5px 0; }
+    margin: 0 0 3px 0; }
   .content h1 img {
     width: 64px;
-    height: 64px; }
+    height: 64px; } */
 
 #video {
 	border-radius: 5px;
