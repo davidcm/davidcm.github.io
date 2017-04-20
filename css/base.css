@@ -53,6 +53,7 @@ a {
       margin-bottom: 7px; }
 
 .content {
+  top: 15px;
   max-width: 650px;
   margin-left: 125px;
   margin-right: 20px;
