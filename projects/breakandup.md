@@ -12,7 +12,7 @@ title: Break & Up
 
 Take a quick game. Feel the emotion of throwing a pixel ball. Aim at the gap through the blocks mess. And finally enjoy as they collide in a symphony of growing pleasure. Everything becomes faster and harder as your skills improve. Bouncing ball, agile racket, best scores all around... Don't hesitate, share them!
 
-All this fun is perfectly coupled with an awesome adaptative soundtrack that levels up with you!
+All this fun is perfectly coupled with an awesome adaptive soundtrack that levels up with you!
 
 We all love classics for what they mean in our past life. And it's natural that, once in a while, someone comes with a tribute. That's the reason why **{{page.title}}** exists! It's a humble, minimal yet addictive Breakout tribute with a spin around continuity, rhythm and briefness.
 
