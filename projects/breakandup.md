@@ -1,6 +1,7 @@
 ---
 layout: layout
 title: Break & Up
+redirect_from: /breakandup/
 ---
 
 <h1>
