@@ -5,7 +5,7 @@ title: Break & Up
 
 <h1>
 <img src="../images/breakandup.png">{{page.title}}
-<section class="byline">Not yet published</section>
+<section class="byline">Published: June 17, 2017</section>
 </h1>
 
 ![{{page.title}} screenshot](../images/breakandup_scr.png)
@@ -21,6 +21,7 @@ Features
   
 - <i class="icon icon-ok"></i>Quick rounds
 - <i class="icon icon-ok"></i>Challenging gameplay
+- <i class="icon icon-ok"></i>Adaptive soundtrack
 - <i class="icon icon-ok"></i>Chainable bounces
 - <i class="icon icon-ok"></i>Power-ups
 - <i class="icon icon-ok"></i>Reflexes improver
@@ -42,5 +43,5 @@ Credits
 
 - Programmed by {{site.me}}
 - Music by {{site.pau}}
-- SFX by {{site.me}}
+- SFX by {{site.pau}} and {{site.me}}
 - 2D art by {{site.me}}
