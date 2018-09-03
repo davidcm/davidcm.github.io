@@ -9,16 +9,17 @@ david.cm<section class="byline">about me...</section>
 
 My name is David Corominas Montes and this is roughly my professional history:
 
-2009 - Now
+2018 - now
 ---
 
-Employed as a teacher and videogame developer at [FXAnimation Barcelona 3D School](http://www.fxanimation.es), where I tutorize all the students' videogame projects and program them using the Unity engine.
+Currently working as a Unity developer at [Abylight Studios](http://www.abylight.com).
 
-I develop a plugin for Unity that brings all needed functionality to 3rd-person-perspective game projects, like player interaction, AI, camera behaviour, level interaction, etc. in a highly modular and reusable way.
+2009 - 2018
+---
 
-I also develop some shaders and tools that help the students enhance the quality of their Unity projects.
+Was employed as a teacher and videogame developer at [FXAnimation Barcelona 3D School](http://www.fxanimation.es), where I tutorized all the students' videogame projects and programmed them using mainly the Unity engine. Developed a plugin that brings all needed functionalities to 3rd-person shooter/melee game projects, like player interaction, AI, camera behaviour, level interaction, etc. I also developed some shaders and tools that helped the students enhance the quality of their projects.
 
-In parallel I research how to effectively make VR cinematics in Unreal Engine, including gaze triggered sequences, realistic looking characters, etc. and gathered a bunch of theory about the subject.
+Also did research on how to effectively make VR cinematics using Unreal Engine, including gaze triggered sequences, realistic looking characters, etc. and gathered a bunch of theory about the subject, ultimately implementing all that in a short, high quality VR experience.
 
 2015 - 2017
 ---
