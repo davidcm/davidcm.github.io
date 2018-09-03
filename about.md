@@ -10,7 +10,7 @@ david.cm<section class="byline">about me...</section>
 My name is David Corominas Montes and this is roughly my professional history:
 
 2018 - now
-----
+------
 
 Currently working as a Unity developer at [Abylight Studios](http://www.abylight.com).
 
