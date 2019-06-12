@@ -12,7 +12,9 @@ title: FXCarnival VR Demo
 
 This will serve as a postmortem of one of the last projects I worked in at [FXAnimation](http://www.fxanimation.es).
 
-After some experiments with VR that were basically wanderers to exhibit some of our students nicest environments, we decided to give more interactivity to our next demo. The setting was a medieval market and the director decided it would be cool to make it into a playing field with funfairlike games. That was a great opportunity to implement hand interactions!
+First of all, this environment was made by the student Jordi Oller and was chosen among many other great quality works by his classmates.
+
+After some previous VR demos that were basically wanderers to exhibit some of our students nicest environments, we decided to give more interactivity to our next demo. The setting was a medieval market and the director decided it would be cool to make it into a playing field with funfairlike games. That was a great opportunity to implement hand interactions.
 
 There were many game candidates, but in the end we opted to include 3: whac-a-mole (smash moles with a hammer), target shooting (ranged shooting with a bow) and knock down (throwing a ball to a pile of cans). The demo was limited in time to about 3 minutes and in space to 3 squared meters.
 
