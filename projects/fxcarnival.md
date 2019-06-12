@@ -5,7 +5,7 @@ title: FXCarnival VR Demo
 
 <h1>
 <img src="../images/fxcarnival.png">{{page.title}}
-<section class="byline">Published: June 8, 2019</section>
+<section class="byline">Published: June 13, 2019</section>
 </h1>
 
 ![{{page.title}} screenshot](../images/fxcarnival_scr.png)
@@ -36,10 +36,5 @@ Credits
 ---
 
 - Programmed by {{site.me}}
-- Models and textures by Jordi Oller, {{site.jaumerovira}} and {{arider}}
-
-Downloads
----
-
-- [{{site.download}}](../files/FXGameSpace2014_win.zip) Windows
-- [{{site.download}}](../files/FXGameSpace2014_mac.zip) Mac OSX
+- Models and textures by Jordi Oller
+- Art support by {{site.jaumerovira}} and {{arider}}
