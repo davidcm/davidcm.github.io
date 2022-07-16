@@ -34,7 +34,7 @@ Features
 Downloads
 ---
 
-[![Get it on AppStore](../images/badge_AppStore.png)](https://itunes.apple.com/es/app/born-3d/id968390848)
+[![Get it on AppStore](../images/badge_AppStore.png)](https://apps.apple.com/app/born-3d/id968390848)
 [![Get it on GooglePlay](../images/badge_GooglePlay.png)](https://play.google.com/store/apps/details?id=cat.bcn.born3d)
 
 Credits

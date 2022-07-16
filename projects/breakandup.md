@@ -16,6 +16,10 @@ All this fun is perfectly coupled with an awesome adaptive soundtrack that level
 
 We all love classics for what they mean in our past life. And it's natural that, once in a while, someone comes with a tribute. That's the reason why **{{page.title}}** exists! It's a humble, minimal yet addictive Breakout tribute with a spin around continuity, rhythm and briefness.
 
+<iframe align="center" frameborder="0" allowfullscreen width="650" height="365"
+	src="https://www.youtube-nocookie.com/embed/0K8YgXsy8Nk?rel=0" style="border: 1px solid black; border-radius: 8px;">
+</iframe>
+
 Features
 ---
   
@@ -34,7 +38,7 @@ In this game I wanted to produce situations where the user had to throw a ball a
 
 Graphics wise, it's obvious that I wanted to keep it simple so it didn't consume much of my time. However, it was a requirement to be pleasant to the eyes. I came up with a style that is (in my opinion) both pretty and functional.
 
-As of the music, I tried to do it myself but I'm no musician at all! Luckily, {{site.pau}} offered to compose the soundtrack.
+As of the music, I tried to do it myself but I'm no musician at all! Luckily, {{site.pau}} offered to compose the soundtrack. [Check it out here](https://soundcloud.com/paudamiariera/collide), it's adaptive and evolves with your gameplay.
 
 I have to say, nonetheless, that I've been a bit untrue to myself placing ads in this game. My opinion is that ads break the immersion and flow of an experience. But well, it's really like an experiment so I can see how well the method works, and anyway, the ad appears in a moment that doesn't disturb too much.
 
